@@ -1,0 +1,2101 @@
+Age,Weight,Height,Activity_Level,Medical_History,Heart_Rate,Stress_Level,Sleep_Duration,Exercise_Habit,Caffeine_Intake,Study_Hours,Risk_Level
+18,77,186,Running,No History,78,Low,9,Regular,2 Cups,9,Low
+29,82,152,Running,No History,92,Low,7,Occasional,>2 Cups,2,Low
+26,61,187,Running,No History,87,Low,9,Rarely,2 Cups,9,Low
+19,51,155,Resting,No History,81,Low,9,Occasional,>2 Cups,4,Low
+23,64,171,Walking,No History,71,Low,7,Regular,1 Cup,4,Low
+20,83,155,Walking,No History,76,Low,9,Regular,2 Cups,3,Low
+26,81,181,Resting,No History,73,Low,8,Regular,1 Cup,8,Low
+23,52,151,Walking,No History,77,Low,9,Occasional,1 Cup,2,Low
+24,57,176,Running,No History,63,Low,8,Rarely,2 Cups,9,Low
+22,64,152,Resting,No History,67,Low,8,Rarely,>2 Cups,7,Low
+29,54,178,Walking,No History,97,Low,8,Rarely,None,6,Low
+25,82,175,Resting,No History,96,Low,9,Rarely,None,4,Low
+22,83,186,Running,No History,76,Low,8,Rarely,2 Cups,2,Low
+24,76,156,Running,No History,71,Low,8,Occasional,1 Cup,5,Low
+26,78,174,Resting,No History,84,Low,7,Regular,2 Cups,8,Low
+29,68,157,Resting,No History,95,Low,7,Occasional,1 Cup,7,Low
+23,55,188,Resting,No History,83,Low,7,Occasional,None,3,Low
+24,62,159,Running,No History,88,Low,7,Occasional,>2 Cups,4,Low
+23,60,160,Resting,No History,60,Low,9,Rarely,>2 Cups,2,Low
+29,66,171,Running,No History,90,Low,8,Occasional,>2 Cups,2,Low
+18,54,152,Resting,No History,82,Low,8,Regular,2 Cups,9,Low
+23,65,178,Walking,No History,84,Low,9,Occasional,2 Cups,3,Low
+25,60,156,Resting,No History,75,Low,9,Occasional,>2 Cups,3,Low
+28,78,167,Walking,No History,100,Low,8,Occasional,1 Cup,5,Low
+19,73,170,Resting,No History,99,Low,7,Occasional,None,5,Low
+23,77,175,Resting,No History,77,Low,7,Occasional,2 Cups,4,Low
+18,56,172,Walking,No History,89,Low,8,Occasional,>2 Cups,4,Low
+22,87,174,Resting,No History,67,Low,7,Regular,2 Cups,4,Low
+23,75,153,Running,No History,60,Low,8,Occasional,2 Cups,7,Low
+21,73,170,Walking,No History,71,Low,9,Occasional,1 Cup,9,Low
+18,53,180,Resting,No History,73,Low,9,Rarely,2 Cups,7,Low
+25,65,161,Running,No History,88,Low,7,Rarely,None,3,Low
+25,56,177,Walking,No History,79,Low,7,Regular,>2 Cups,4,Low
+29,56,166,Walking,No History,86,Low,8,Regular,>2 Cups,5,Low
+23,55,189,Running,No History,83,Low,8,Rarely,>2 Cups,5,Low
+29,60,181,Walking,No History,68,Low,7,Occasional,1 Cup,5,Low
+25,70,156,Walking,No History,95,Low,8,Regular,>2 Cups,5,Low
+20,73,159,Resting,No History,76,Low,7,Rarely,>2 Cups,4,Low
+18,88,176,Resting,No History,73,Low,8,Occasional,1 Cup,7,Low
+24,51,175,Walking,No History,69,Low,7,Occasional,2 Cups,3,Low
+23,63,161,Running,No History,66,Low,9,Regular,1 Cup,2,Low
+21,87,160,Walking,No History,71,Low,7,Occasional,>2 Cups,8,Low
+19,84,184,Running,No History,63,Low,7,Occasional,>2 Cups,4,Low
+18,55,174,Resting,No History,73,Low,7,Regular,>2 Cups,2,Low
+19,74,179,Walking,No History,97,Low,8,Rarely,None,4,Low
+24,54,171,Walking,No History,67,Low,9,Regular,>2 Cups,5,Low
+29,72,182,Running,No History,63,Low,9,Regular,>2 Cups,2,Low
+28,86,185,Running,No History,60,Low,7,Rarely,2 Cups,8,Low
+25,66,182,Running,No History,84,Low,9,Rarely,>2 Cups,5,Low
+23,89,188,Walking,No History,62,Low,7,Regular,>2 Cups,3,Low
+26,73,171,Running,No History,97,Low,9,Rarely,>2 Cups,4,Low
+18,63,164,Running,No History,88,Low,9,Regular,2 Cups,3,Low
+29,70,183,Walking,No History,84,Low,8,Occasional,>2 Cups,4,Low
+27,50,183,Running,No History,70,Low,8,Regular,None,3,Low
+20,53,178,Running,No History,79,Low,7,Regular,None,4,Low
+22,50,154,Running,No History,65,Low,9,Occasional,2 Cups,6,Low
+18,72,171,Running,No History,65,Low,8,Occasional,1 Cup,7,Low
+29,67,184,Running,No History,99,Low,7,Regular,None,8,Low
+26,83,162,Running,No History,63,Low,8,Occasional,1 Cup,5,Low
+22,54,186,Running,No History,97,Low,7,Regular,1 Cup,8,Low
+18,72,175,Walking,No History,90,Low,9,Regular,1 Cup,4,Low
+24,84,158,Walking,No History,82,Low,8,Regular,None,8,Low
+25,60,160,Running,No History,89,Low,7,Regular,2 Cups,7,Low
+23,50,166,Running,No History,96,Low,8,Occasional,>2 Cups,6,Low
+24,79,184,Resting,No History,67,Low,7,Occasional,2 Cups,2,Low
+21,70,175,Running,No History,73,Low,7,Occasional,2 Cups,7,Low
+20,53,162,Running,No History,90,Low,7,Occasional,>2 Cups,4,Low
+20,70,164,Running,No History,82,Low,8,Rarely,1 Cup,6,Low
+20,51,159,Walking,No History,63,Low,8,Rarely,>2 Cups,4,Low
+18,52,151,Resting,No History,64,Low,7,Rarely,2 Cups,8,Low
+24,60,163,Resting,No History,89,Low,7,Rarely,2 Cups,5,Low
+25,74,155,Running,No History,81,Low,7,Regular,1 Cup,3,Low
+18,77,163,Running,No History,95,Low,7,Occasional,None,8,Low
+25,83,172,Running,No History,89,Low,7,Regular,None,4,Low
+27,64,155,Walking,No History,61,Low,9,Regular,None,8,Low
+22,53,167,Running,No History,62,Low,9,Rarely,1 Cup,4,Low
+24,75,151,Running,No History,88,Low,7,Occasional,None,5,Low
+25,85,158,Resting,No History,85,Low,7,Regular,>2 Cups,7,Low
+24,65,183,Resting,No History,68,Low,8,Regular,2 Cups,8,Low
+26,71,154,Walking,No History,99,Low,8,Regular,1 Cup,6,Low
+28,70,157,Running,No History,88,Low,8,Rarely,1 Cup,3,Low
+29,73,158,Walking,No History,100,Low,7,Occasional,2 Cups,3,Low
+25,87,184,Running,No History,74,Low,9,Occasional,>2 Cups,9,Low
+23,54,157,Running,No History,89,Low,7,Regular,2 Cups,7,Low
+21,50,162,Running,No History,90,Low,7,Occasional,2 Cups,8,Low
+24,72,154,Walking,No History,89,Low,7,Occasional,2 Cups,7,Low
+23,88,160,Walking,No History,81,Low,7,Regular,2 Cups,7,Low
+28,75,166,Running,No History,99,Low,8,Regular,None,3,Low
+29,84,154,Resting,No History,97,Low,7,Rarely,2 Cups,6,Low
+29,62,173,Running,No History,77,Low,7,Rarely,1 Cup,7,Low
+19,83,165,Walking,No History,84,Low,9,Rarely,>2 Cups,8,Low
+21,74,189,Running,No History,78,Low,7,Regular,>2 Cups,7,Low
+28,84,157,Resting,No History,86,Low,7,Occasional,2 Cups,4,Low
+28,55,179,Walking,No History,86,Low,7,Rarely,2 Cups,7,Low
+23,64,171,Walking,No History,72,Low,7,Rarely,1 Cup,7,Low
+20,73,162,Running,No History,79,Low,7,Occasional,2 Cups,9,Low
+28,80,151,Resting,No History,70,Low,7,Rarely,None,8,Low
+19,53,178,Walking,No History,89,Low,7,Rarely,2 Cups,4,Low
+23,77,152,Running,No History,85,Low,8,Rarely,None,2,Low
+21,50,162,Walking,No History,99,Low,8,Regular,None,9,Low
+20,68,163,Resting,No History,67,Low,9,Rarely,None,7,Low
+28,86,180,Walking,No History,93,Low,8,Regular,None,8,Low
+29,84,186,Resting,No History,97,Low,9,Occasional,2 Cups,7,Low
+18,60,179,Running,No History,86,Low,9,Regular,1 Cup,3,Low
+29,71,165,Resting,No History,92,Low,9,Occasional,1 Cup,2,Low
+26,53,157,Running,No History,69,Low,8,Rarely,>2 Cups,4,Low
+27,77,180,Walking,No History,65,Low,7,Occasional,>2 Cups,6,Low
+28,81,170,Running,No History,77,Low,7,Regular,None,9,Low
+24,79,185,Walking,No History,61,Low,7,Occasional,None,7,Low
+19,81,189,Running,No History,70,Low,7,Occasional,1 Cup,6,Low
+19,80,171,Running,No History,76,Low,9,Regular,2 Cups,2,Low
+26,65,164,Walking,No History,93,Low,9,Regular,>2 Cups,5,Low
+26,84,150,Running,No History,92,Low,7,Regular,>2 Cups,3,Low
+28,85,188,Walking,No History,88,Low,8,Rarely,None,6,Low
+18,86,188,Walking,No History,82,Low,7,Regular,>2 Cups,5,Low
+26,77,158,Walking,No History,75,Low,7,Regular,>2 Cups,9,Low
+27,56,184,Resting,No History,81,Low,9,Rarely,1 Cup,8,Low
+24,87,159,Walking,No History,81,Low,9,Rarely,2 Cups,4,Low
+25,73,170,Walking,No History,78,Low,8,Regular,None,6,Low
+21,60,185,Walking,No History,61,Low,8,Regular,2 Cups,3,Low
+20,59,180,Walking,No History,80,Low,9,Rarely,None,3,Low
+25,83,180,Walking,No History,83,Low,8,Regular,None,9,Low
+28,60,184,Walking,No History,80,Low,9,Rarely,2 Cups,7,Low
+29,85,165,Walking,No History,98,Low,7,Rarely,2 Cups,5,Low
+22,68,187,Walking,No History,88,Low,8,Regular,1 Cup,8,Low
+29,55,150,Running,No History,83,Low,9,Regular,1 Cup,7,Low
+24,51,177,Walking,No History,92,Low,9,Regular,2 Cups,7,Low
+19,81,159,Walking,No History,96,Low,8,Regular,None,8,Low
+23,65,163,Resting,No History,85,Low,9,Occasional,2 Cups,6,Low
+27,61,169,Running,No History,72,Low,7,Regular,2 Cups,9,Low
+29,88,169,Resting,No History,69,Low,7,Occasional,>2 Cups,3,Low
+20,62,153,Running,No History,64,Low,9,Occasional,>2 Cups,2,Low
+27,69,161,Resting,No History,68,Low,8,Occasional,1 Cup,4,Low
+18,51,162,Walking,No History,96,Low,8,Occasional,>2 Cups,7,Low
+21,63,168,Resting,No History,100,Low,9,Regular,None,5,Low
+21,70,175,Resting,No History,88,Low,9,Rarely,1 Cup,7,Low
+28,71,163,Running,No History,71,Low,7,Regular,>2 Cups,5,Low
+22,71,161,Resting,No History,65,Low,8,Regular,2 Cups,6,Low
+19,65,163,Resting,No History,61,Low,8,Occasional,None,7,Low
+25,62,159,Resting,No History,83,Low,9,Occasional,2 Cups,7,Low
+20,77,185,Walking,No History,90,Low,8,Rarely,>2 Cups,5,Low
+27,81,166,Walking,No History,79,Low,9,Regular,None,7,Low
+29,69,170,Resting,No History,93,Low,8,Rarely,1 Cup,4,Low
+25,71,186,Walking,No History,71,Low,8,Occasional,2 Cups,6,Low
+25,57,162,Walking,No History,80,Low,8,Regular,>2 Cups,9,Low
+28,51,157,Walking,No History,93,Low,8,Occasional,>2 Cups,3,Low
+29,55,169,Running,No History,75,Low,8,Occasional,>2 Cups,7,Low
+19,69,154,Resting,No History,86,Low,8,Occasional,2 Cups,9,Low
+29,62,177,Running,No History,60,Low,9,Occasional,>2 Cups,9,Low
+24,79,168,Running,No History,73,Low,8,Occasional,>2 Cups,3,Low
+20,74,174,Running,No History,66,Low,9,Rarely,1 Cup,9,Low
+29,63,176,Walking,No History,74,Low,8,Rarely,2 Cups,9,Low
+29,84,165,Resting,No History,83,Low,7,Regular,1 Cup,9,Low
+20,56,173,Running,No History,99,Low,8,Regular,2 Cups,8,Low
+28,86,188,Resting,No History,65,Low,9,Occasional,2 Cups,3,Low
+24,53,180,Running,No History,68,Low,9,Regular,2 Cups,8,Low
+27,67,180,Walking,No History,63,Low,9,Rarely,1 Cup,3,Low
+23,54,175,Resting,No History,94,Low,8,Occasional,2 Cups,3,Low
+27,52,166,Walking,No History,79,Low,8,Occasional,None,8,Low
+28,85,163,Walking,No History,65,Low,8,Regular,None,6,Low
+18,67,168,Walking,No History,94,Low,8,Rarely,>2 Cups,4,Low
+19,68,176,Walking,No History,82,Low,7,Regular,1 Cup,7,Low
+20,55,181,Resting,No History,63,Low,7,Occasional,None,7,Low
+28,79,166,Running,No History,76,Low,8,Occasional,>2 Cups,8,Low
+18,69,163,Resting,No History,65,Low,8,Rarely,None,9,Low
+27,62,158,Running,No History,87,Low,8,Rarely,2 Cups,9,Low
+25,52,170,Resting,No History,88,Low,8,Rarely,None,4,Low
+26,74,150,Resting,No History,75,Low,8,Rarely,2 Cups,2,Low
+19,68,162,Walking,No History,95,Low,8,Occasional,>2 Cups,2,Low
+23,69,180,Running,No History,60,Low,9,Regular,>2 Cups,4,Low
+28,64,181,Walking,No History,67,Low,8,Occasional,None,6,Low
+24,54,168,Resting,No History,81,Low,8,Regular,1 Cup,4,Low
+29,51,173,Resting,No History,93,Low,8,Rarely,2 Cups,3,Low
+22,84,162,Resting,No History,91,Low,9,Rarely,None,8,Low
+20,79,177,Running,No History,82,Low,8,Regular,1 Cup,5,Low
+21,53,167,Walking,No History,98,Low,9,Rarely,>2 Cups,5,Low
+29,52,164,Resting,No History,92,Low,7,Regular,2 Cups,8,Low
+22,75,187,Running,No History,90,Low,9,Regular,None,6,Low
+20,54,180,Resting,No History,65,Low,7,Occasional,None,5,Low
+21,53,182,Resting,No History,88,Low,9,Occasional,2 Cups,9,Low
+28,54,156,Resting,No History,62,Low,9,Regular,1 Cup,3,Low
+26,54,176,Running,No History,92,Low,7,Occasional,2 Cups,6,Low
+28,63,173,Running,No History,78,Low,9,Occasional,>2 Cups,6,Low
+29,65,172,Resting,No History,84,Low,9,Regular,1 Cup,5,Low
+22,73,153,Walking,No History,64,Low,7,Regular,>2 Cups,3,Low
+27,87,185,Running,No History,69,Low,7,Regular,1 Cup,5,Low
+18,86,164,Running,No History,91,Low,8,Rarely,1 Cup,4,Low
+22,77,159,Walking,No History,72,Low,9,Occasional,2 Cups,2,Low
+25,59,154,Walking,No History,71,Low,9,Regular,1 Cup,5,Low
+26,82,175,Running,No History,86,Low,7,Occasional,2 Cups,2,Low
+18,62,175,Running,No History,72,Low,9,Regular,None,8,Low
+20,56,181,Walking,No History,76,Low,8,Occasional,2 Cups,9,Low
+19,81,184,Resting,No History,89,Low,7,Occasional,1 Cup,4,Low
+24,87,157,Resting,No History,76,Low,7,Rarely,1 Cup,4,Low
+25,63,182,Walking,No History,76,Low,7,Regular,>2 Cups,9,Low
+26,78,175,Resting,No History,66,Low,8,Rarely,1 Cup,5,Low
+25,88,189,Resting,No History,79,Low,9,Rarely,>2 Cups,4,Low
+26,58,157,Resting,No History,79,Low,8,Regular,>2 Cups,6,Low
+19,58,157,Resting,No History,88,Low,9,Occasional,2 Cups,3,Low
+24,69,167,Resting,No History,88,Low,7,Regular,None,5,Low
+22,89,168,Running,No History,96,Low,8,Regular,None,7,Low
+18,86,153,Resting,No History,75,Low,9,Occasional,>2 Cups,5,Low
+26,61,151,Resting,No History,78,Low,9,Occasional,1 Cup,2,Low
+27,55,161,Walking,No History,72,Low,9,Regular,None,5,Low
+18,89,187,Walking,No History,89,Low,8,Rarely,>2 Cups,6,Low
+22,59,158,Running,No History,85,Low,9,Rarely,1 Cup,3,Low
+28,75,174,Resting,No History,74,Low,9,Regular,1 Cup,9,Low
+27,57,179,Running,No History,62,Low,8,Regular,None,4,Low
+29,77,186,Running,No History,73,Low,8,Regular,2 Cups,9,Low
+27,77,179,Walking,No History,65,Low,8,Occasional,>2 Cups,7,Low
+28,71,187,Running,No History,85,Low,9,Occasional,None,3,Low
+24,70,158,Walking,No History,100,Low,7,Occasional,None,8,Low
+25,89,188,Running,No History,85,Low,9,Rarely,1 Cup,9,Low
+24,89,186,Walking,No History,86,Low,7,Rarely,None,5,Low
+29,80,161,Running,No History,69,Low,9,Rarely,None,6,Low
+24,72,159,Resting,No History,70,Low,7,Rarely,1 Cup,2,Low
+25,75,160,Resting,No History,87,Low,9,Rarely,1 Cup,6,Low
+27,73,185,Resting,No History,99,Low,8,Regular,2 Cups,2,Low
+23,51,177,Resting,No History,62,Low,7,Rarely,>2 Cups,6,Low
+22,75,179,Walking,No History,93,Low,9,Regular,>2 Cups,8,Low
+25,62,151,Walking,No History,62,Low,8,Regular,>2 Cups,5,Low
+22,56,185,Walking,No History,92,Low,9,Rarely,None,2,Low
+23,86,154,Walking,No History,72,Low,9,Rarely,>2 Cups,3,Low
+23,61,183,Running,No History,91,Low,9,Rarely,2 Cups,2,Low
+21,75,159,Resting,No History,90,Low,8,Occasional,2 Cups,6,Low
+22,64,179,Resting,No History,87,Low,8,Rarely,None,2,Low
+19,58,161,Running,No History,94,Low,9,Rarely,2 Cups,6,Low
+28,83,173,Walking,No History,65,Low,9,Occasional,None,4,Low
+20,54,167,Resting,No History,61,Low,7,Rarely,>2 Cups,4,Low
+24,69,176,Running,No History,88,Low,7,Regular,None,8,Low
+18,52,157,Running,No History,90,Low,8,Rarely,2 Cups,4,Low
+24,51,175,Walking,No History,91,Low,9,Occasional,1 Cup,5,Low
+26,63,184,Walking,No History,67,Low,8,Occasional,>2 Cups,8,Low
+18,63,165,Resting,No History,61,Low,9,Occasional,1 Cup,8,Low
+23,59,151,Walking,No History,98,Low,8,Rarely,2 Cups,9,Low
+19,60,154,Resting,No History,90,Low,8,Regular,1 Cup,4,Low
+21,50,155,Walking,No History,76,Low,7,Occasional,2 Cups,6,Low
+22,71,173,Resting,No History,66,Low,7,Occasional,1 Cup,9,Low
+21,60,183,Running,No History,84,Low,8,Occasional,>2 Cups,5,Low
+29,63,167,Resting,No History,66,Low,7,Regular,2 Cups,2,Low
+24,57,155,Walking,No History,98,Low,8,Rarely,2 Cups,5,Low
+25,63,187,Walking,No History,92,Low,7,Occasional,None,5,Low
+27,72,174,Walking,No History,74,Low,9,Rarely,2 Cups,4,Low
+25,77,163,Running,No History,64,Low,8,Occasional,>2 Cups,4,Low
+22,74,164,Resting,No History,65,Low,9,Regular,2 Cups,3,Low
+25,67,163,Walking,No History,89,Low,8,Rarely,2 Cups,2,Low
+20,60,159,Running,No History,84,Low,8,Occasional,1 Cup,7,Low
+20,68,158,Running,No History,77,Low,8,Regular,>2 Cups,7,Low
+21,60,153,Resting,No History,66,Low,9,Regular,1 Cup,8,Low
+19,57,154,Resting,No History,81,Low,7,Regular,>2 Cups,3,Low
+24,87,156,Walking,No History,95,Low,7,Regular,>2 Cups,2,Low
+21,83,154,Running,No History,99,Low,8,Rarely,2 Cups,2,Low
+26,89,185,Resting,No History,68,Low,8,Rarely,2 Cups,4,Low
+25,78,160,Resting,No History,90,Low,7,Occasional,None,7,Low
+21,87,166,Resting,No History,97,Low,9,Rarely,None,2,Low
+25,69,176,Walking,No History,94,Low,9,Rarely,>2 Cups,8,Low
+20,87,165,Resting,No History,67,Low,9,Regular,2 Cups,7,Low
+29,89,184,Resting,No History,100,Low,7,Occasional,>2 Cups,5,Low
+25,52,169,Running,No History,85,Low,9,Occasional,2 Cups,9,Low
+25,56,163,Running,No History,98,Low,7,Occasional,>2 Cups,5,Low
+28,83,158,Resting,No History,85,Low,7,Regular,2 Cups,4,Low
+19,89,160,Walking,No History,73,Low,9,Regular,1 Cup,3,Low
+24,65,170,Walking,No History,65,Low,9,Occasional,1 Cup,4,Low
+21,57,166,Resting,No History,95,Low,9,Regular,>2 Cups,7,Low
+18,85,161,Running,No History,82,Low,7,Regular,1 Cup,4,Low
+29,88,174,Walking,No History,99,Low,7,Regular,1 Cup,2,Low
+25,76,173,Running,No History,87,Low,7,Rarely,>2 Cups,6,Low
+22,84,163,Walking,No History,68,Low,8,Rarely,>2 Cups,8,Low
+24,51,169,Resting,No History,74,Low,8,Rarely,1 Cup,6,Low
+23,73,184,Resting,No History,91,Low,7,Occasional,1 Cup,5,Low
+20,85,154,Resting,No History,76,Low,8,Rarely,None,2,Low
+29,75,169,Resting,No History,74,Low,8,Occasional,None,8,Low
+25,69,166,Resting,No History,71,Low,8,Occasional,2 Cups,6,Low
+25,80,174,Walking,No History,65,Low,8,Rarely,>2 Cups,2,Low
+22,76,164,Walking,No History,97,Low,9,Regular,1 Cup,9,Low
+19,59,175,Resting,No History,60,Low,8,Rarely,None,8,Low
+23,81,160,Walking,No History,98,Low,7,Occasional,1 Cup,7,Low
+22,79,187,Walking,No History,68,Low,8,Occasional,>2 Cups,9,Low
+21,69,151,Walking,No History,83,Low,9,Regular,2 Cups,8,Low
+26,79,174,Walking,No History,94,Low,7,Occasional,1 Cup,8,Low
+24,57,154,Walking,No History,63,Low,8,Regular,None,9,Low
+18,54,178,Walking,No History,89,Low,7,Rarely,2 Cups,3,Low
+18,85,162,Resting,No History,94,Low,8,Regular,2 Cups,3,Low
+19,73,170,Walking,No History,62,Low,8,Rarely,>2 Cups,6,Low
+25,53,150,Running,No History,80,Low,9,Rarely,2 Cups,5,Low
+23,60,163,Running,No History,67,Low,9,Rarely,None,6,Low
+19,72,170,Running,No History,72,Low,9,Occasional,None,3,Low
+19,52,151,Running,No History,97,Low,7,Rarely,1 Cup,3,Low
+24,52,164,Running,No History,67,Low,7,Occasional,2 Cups,9,Low
+26,63,187,Walking,No History,90,Low,8,Rarely,None,6,Low
+28,80,161,Resting,No History,63,Low,9,Rarely,2 Cups,2,Low
+28,53,175,Running,No History,90,Low,8,Rarely,2 Cups,7,Low
+25,74,173,Walking,No History,65,Low,7,Regular,2 Cups,4,Low
+20,85,184,Resting,No History,90,Low,8,Regular,>2 Cups,4,Low
+19,51,184,Running,No History,82,Low,8,Occasional,1 Cup,7,Low
+24,68,183,Resting,No History,75,Low,7,Rarely,None,3,Low
+18,61,150,Running,No History,69,Low,7,Occasional,>2 Cups,7,Low
+24,73,155,Running,No History,88,Low,7,Occasional,1 Cup,4,Low
+26,63,165,Resting,No History,75,Low,7,Occasional,1 Cup,2,Low
+26,81,175,Walking,No History,68,Low,7,Rarely,>2 Cups,7,Low
+23,59,179,Walking,No History,85,Low,9,Regular,>2 Cups,2,Low
+26,76,170,Resting,No History,76,Low,7,Regular,>2 Cups,9,Low
+20,51,167,Running,No History,88,Low,8,Regular,None,9,Low
+28,68,180,Resting,No History,77,Low,8,Regular,2 Cups,2,Low
+20,69,168,Running,No History,67,Low,9,Rarely,None,6,Low
+20,82,177,Resting,No History,61,Low,7,Rarely,None,3,Low
+24,70,179,Running,No History,87,Low,9,Rarely,2 Cups,2,Low
+25,68,167,Running,No History,87,Low,7,Regular,None,3,Low
+23,82,180,Walking,No History,65,Low,8,Rarely,2 Cups,6,Low
+21,51,170,Walking,No History,76,Low,8,Occasional,1 Cup,2,Low
+24,62,185,Walking,No History,82,Low,9,Regular,2 Cups,7,Low
+22,83,172,Resting,No History,67,Low,7,Rarely,>2 Cups,7,Low
+22,79,175,Resting,No History,75,Low,8,Rarely,2 Cups,3,Low
+29,81,161,Resting,No History,66,Low,9,Occasional,None,8,Low
+19,79,187,Walking,No History,75,Low,8,Rarely,1 Cup,3,Low
+18,59,163,Resting,No History,91,Low,9,Regular,1 Cup,6,Low
+20,58,188,Resting,No History,99,Low,8,Rarely,>2 Cups,7,Low
+22,73,154,Walking,No History,78,Low,7,Rarely,1 Cup,5,Low
+21,64,177,Walking,No History,99,Low,9,Regular,1 Cup,8,Low
+29,60,175,Running,No History,81,Low,7,Occasional,None,4,Low
+25,52,180,Walking,No History,81,Low,7,Rarely,None,6,Low
+18,52,175,Running,No History,97,Low,7,Occasional,>2 Cups,6,Low
+24,75,169,Running,No History,66,Low,9,Occasional,2 Cups,5,Low
+26,73,161,Resting,No History,84,Low,8,Occasional,None,8,Low
+19,61,155,Running,No History,87,Low,9,Rarely,2 Cups,6,Low
+27,58,184,Walking,No History,71,Low,8,Occasional,1 Cup,4,Low
+23,78,160,Running,No History,86,Low,8,Regular,1 Cup,3,Low
+26,75,174,Running,No History,83,Low,9,Regular,1 Cup,7,Low
+23,59,153,Resting,No History,70,Low,8,Regular,None,4,Low
+21,51,152,Resting,No History,100,Low,8,Occasional,>2 Cups,9,Low
+24,58,178,Resting,No History,99,Low,7,Occasional,1 Cup,6,Low
+24,79,162,Walking,No History,98,Low,7,Occasional,>2 Cups,4,Low
+21,77,158,Running,No History,92,Low,7,Rarely,>2 Cups,9,Low
+20,72,164,Running,No History,92,Low,7,Occasional,None,2,Low
+22,54,183,Walking,No History,81,Low,7,Regular,None,6,Low
+26,60,158,Walking,No History,61,Low,9,Rarely,2 Cups,4,Low
+26,69,183,Running,No History,77,Low,9,Occasional,2 Cups,9,Low
+26,88,184,Running,No History,66,Low,7,Rarely,1 Cup,5,Low
+27,78,179,Resting,No History,62,Low,9,Regular,2 Cups,8,Low
+28,59,188,Running,No History,74,Low,7,Rarely,>2 Cups,2,Low
+28,74,174,Walking,No History,92,Low,8,Occasional,>2 Cups,9,Low
+26,76,156,Running,No History,90,Low,7,Occasional,2 Cups,3,Low
+27,55,151,Running,No History,84,Low,9,Occasional,2 Cups,2,Low
+28,89,151,Resting,No History,91,Low,8,Occasional,>2 Cups,6,Low
+18,68,169,Walking,No History,92,Low,7,Regular,>2 Cups,9,Low
+19,77,179,Resting,No History,92,Low,8,Occasional,1 Cup,2,Low
+18,71,167,Resting,No History,67,Low,8,Regular,>2 Cups,9,Low
+27,56,175,Resting,No History,70,Low,8,Occasional,2 Cups,7,Low
+19,59,188,Resting,No History,95,Low,8,Regular,2 Cups,3,Low
+25,52,151,Running,No History,99,Low,8,Rarely,1 Cup,7,Low
+26,53,184,Resting,No History,99,Low,8,Regular,1 Cup,3,Low
+26,82,183,Running,No History,79,Low,7,Rarely,None,7,Low
+23,70,166,Resting,No History,62,Low,7,Regular,None,8,Low
+21,68,188,Running,No History,72,Low,8,Rarely,2 Cups,2,Low
+21,80,158,Walking,No History,79,Low,9,Rarely,>2 Cups,3,Low
+28,84,180,Walking,No History,82,Low,8,Rarely,1 Cup,5,Low
+25,88,181,Resting,No History,82,Low,7,Regular,>2 Cups,8,Low
+18,76,187,Walking,No History,95,Low,8,Occasional,2 Cups,7,Low
+29,89,184,Running,No History,86,Low,9,Regular,1 Cup,3,Low
+23,78,164,Resting,No History,78,Low,8,Occasional,1 Cup,7,Low
+23,73,186,Resting,No History,78,Low,8,Regular,1 Cup,2,Low
+23,50,156,Running,No History,70,Low,9,Rarely,None,8,Low
+21,67,155,Walking,No History,76,Low,9,Rarely,1 Cup,8,Low
+20,85,177,Resting,No History,61,Low,8,Regular,2 Cups,8,Low
+20,69,174,Running,No History,100,Low,7,Regular,2 Cups,5,Low
+28,56,159,Walking,No History,85,Low,7,Regular,>2 Cups,7,Low
+29,51,169,Resting,No History,62,Low,8,Occasional,1 Cup,9,Low
+22,62,171,Walking,No History,79,Low,8,Rarely,2 Cups,2,Low
+28,77,182,Walking,No History,84,Low,8,Occasional,1 Cup,8,Low
+26,55,175,Walking,No History,86,Low,8,Rarely,None,2,Low
+27,80,182,Running,No History,79,Low,9,Occasional,1 Cup,7,Low
+21,69,158,Walking,No History,78,Low,7,Regular,1 Cup,3,Low
+18,73,168,Running,No History,80,Low,7,Regular,>2 Cups,2,Low
+19,56,152,Running,No History,69,Low,8,Occasional,None,4,Low
+28,58,162,Resting,No History,80,Low,8,Regular,1 Cup,3,Low
+18,62,165,Walking,No History,69,Low,8,Occasional,2 Cups,3,Low
+25,78,152,Running,No History,88,Low,7,Occasional,2 Cups,9,Low
+27,71,155,Resting,No History,74,Low,8,Regular,>2 Cups,2,Low
+22,89,171,Running,No History,70,Low,7,Regular,2 Cups,9,Low
+21,78,169,Running,No History,99,Low,7,Regular,>2 Cups,8,Low
+24,71,159,Running,No History,79,Low,8,Occasional,>2 Cups,4,Low
+25,60,162,Running,No History,70,Low,7,Occasional,2 Cups,6,Low
+28,62,160,Resting,No History,61,Low,8,Regular,1 Cup,7,Low
+28,51,158,Walking,No History,92,Low,9,Occasional,1 Cup,5,Low
+26,69,151,Resting,No History,85,Low,8,Regular,2 Cups,3,Low
+28,70,160,Walking,No History,72,Low,9,Occasional,1 Cup,6,Low
+19,79,172,Walking,No History,74,Low,8,Rarely,2 Cups,4,Low
+20,78,174,Running,No History,73,Low,8,Rarely,None,2,Low
+26,87,160,Walking,No History,88,Low,7,Rarely,None,8,Low
+25,67,177,Walking,No History,88,Low,9,Occasional,1 Cup,8,Low
+24,88,176,Resting,No History,65,Low,8,Occasional,1 Cup,8,Low
+28,66,156,Running,No History,73,Low,9,Regular,1 Cup,4,Low
+18,78,158,Running,No History,96,Low,8,Occasional,>2 Cups,9,Low
+28,82,188,Resting,No History,91,Low,7,Rarely,None,8,Low
+27,72,152,Running,No History,98,Low,8,Regular,1 Cup,8,Low
+20,56,151,Walking,No History,86,Low,9,Regular,2 Cups,2,Low
+20,66,157,Walking,No History,76,Low,7,Rarely,>2 Cups,2,Low
+26,68,182,Resting,No History,60,Low,9,Rarely,>2 Cups,7,Low
+25,67,184,Walking,No History,65,Low,8,Occasional,None,7,Low
+29,85,184,Resting,No History,64,Low,7,Regular,1 Cup,9,Low
+25,74,164,Resting,No History,79,Low,8,Rarely,None,8,Low
+20,78,180,Resting,No History,77,Low,9,Occasional,>2 Cups,6,Low
+25,71,168,Resting,No History,66,Low,9,Occasional,1 Cup,6,Low
+23,69,176,Walking,No History,78,Low,7,Rarely,>2 Cups,3,Low
+28,66,176,Walking,No History,78,Low,8,Occasional,1 Cup,6,Low
+18,58,154,Resting,No History,70,Low,7,Rarely,1 Cup,8,Low
+19,87,183,Resting,No History,79,Low,8,Rarely,2 Cups,4,Low
+19,62,189,Walking,No History,87,Low,7,Rarely,1 Cup,2,Low
+26,87,170,Running,No History,82,Low,9,Rarely,None,3,Low
+22,84,184,Running,No History,71,Low,8,Rarely,None,9,Low
+24,63,155,Walking,No History,80,Low,8,Occasional,2 Cups,9,Low
+21,56,184,Resting,No History,77,Low,7,Regular,>2 Cups,7,Low
+21,87,174,Walking,No History,85,Low,9,Rarely,None,4,Low
+18,66,161,Resting,No History,92,Low,8,Regular,None,9,Low
+27,65,167,Resting,No History,86,Low,9,Occasional,2 Cups,3,Low
+29,65,186,Running,No History,67,Low,9,Rarely,None,8,Low
+28,69,171,Resting,No History,76,Low,8,Rarely,2 Cups,6,Low
+18,65,189,Resting,No History,62,Low,7,Occasional,2 Cups,2,Low
+27,88,172,Walking,No History,60,Low,9,Rarely,2 Cups,2,Low
+29,85,168,Resting,No History,63,Low,9,Regular,>2 Cups,6,Low
+24,89,189,Walking,No History,64,Low,7,Regular,None,6,Low
+28,78,167,Resting,No History,76,Low,9,Rarely,>2 Cups,5,Low
+19,65,173,Walking,No History,99,Low,8,Rarely,None,7,Low
+25,52,184,Walking,No History,69,Low,9,Occasional,>2 Cups,9,Low
+19,70,154,Running,No History,82,Low,7,Rarely,None,4,Low
+27,59,164,Running,No History,61,Low,9,Rarely,None,7,Low
+25,87,185,Running,No History,66,Low,7,Rarely,None,8,Low
+23,83,184,Resting,No History,81,Low,9,Occasional,1 Cup,4,Low
+21,83,184,Running,No History,85,Low,8,Rarely,1 Cup,2,Low
+25,54,151,Resting,No History,92,Low,9,Regular,>2 Cups,5,Low
+28,56,152,Running,No History,72,Low,7,Regular,None,5,Low
+28,84,185,Walking,No History,60,Low,8,Occasional,>2 Cups,2,Low
+19,87,171,Walking,No History,94,Low,7,Regular,None,4,Low
+29,74,186,Running,No History,99,Low,9,Rarely,>2 Cups,8,Low
+18,89,153,Resting,No History,73,Low,7,Regular,1 Cup,5,Low
+25,74,179,Walking,No History,75,Low,9,Regular,2 Cups,9,Low
+24,74,155,Walking,No History,76,Low,7,Occasional,2 Cups,3,Low
+20,89,182,Resting,No History,80,Low,7,Rarely,2 Cups,7,Low
+22,53,183,Walking,No History,77,Low,9,Regular,None,8,Low
+24,83,163,Running,No History,86,Low,9,Rarely,2 Cups,4,Low
+26,79,178,Running,No History,86,Low,8,Regular,>2 Cups,3,Low
+27,64,153,Running,No History,71,Low,9,Rarely,2 Cups,2,Low
+23,86,175,Walking,No History,61,Low,8,Occasional,2 Cups,3,Low
+19,53,154,Resting,No History,98,Low,9,Occasional,>2 Cups,6,Low
+19,75,177,Walking,No History,66,Low,8,Occasional,>2 Cups,8,Low
+29,77,166,Running,No History,62,Low,9,Regular,>2 Cups,3,Low
+23,72,179,Running,No History,92,Low,7,Occasional,>2 Cups,4,Low
+18,81,170,Walking,No History,86,Low,8,Occasional,>2 Cups,4,Low
+26,71,178,Walking,No History,75,Low,9,Regular,1 Cup,2,Low
+19,79,153,Running,No History,75,Low,8,Occasional,2 Cups,3,Low
+22,57,182,Resting,No History,73,Low,9,Occasional,>2 Cups,9,Low
+27,68,179,Running,No History,88,Low,7,Regular,2 Cups,6,Low
+28,55,156,Resting,No History,72,Low,9,Regular,>2 Cups,8,Low
+24,51,179,Walking,No History,100,Low,8,Regular,None,9,Low
+21,86,159,Walking,No History,68,Low,8,Rarely,1 Cup,9,Low
+28,55,159,Walking,No History,97,Low,9,Regular,None,8,Low
+23,64,157,Running,No History,77,Low,8,Rarely,1 Cup,3,Low
+28,85,183,Resting,No History,67,Low,9,Regular,1 Cup,8,Low
+20,59,168,Walking,No History,91,Low,8,Regular,>2 Cups,4,Low
+19,66,177,Resting,No History,90,Low,7,Regular,None,5,Low
+26,56,168,Resting,No History,98,Low,7,Occasional,1 Cup,5,Low
+19,56,156,Running,No History,95,Low,9,Rarely,>2 Cups,4,Low
+19,72,153,Walking,No History,68,Low,9,Occasional,>2 Cups,8,Low
+19,81,179,Resting,No History,81,Low,7,Regular,None,3,Low
+29,89,184,Walking,No History,91,Low,8,Occasional,1 Cup,7,Low
+20,58,189,Resting,No History,91,Low,7,Regular,2 Cups,6,Low
+26,54,156,Walking,No History,64,Low,9,Regular,1 Cup,2,Low
+19,64,189,Walking,No History,68,Low,9,Occasional,None,8,Low
+26,60,162,Resting,No History,70,Low,9,Occasional,1 Cup,2,Low
+29,53,169,Walking,No History,97,Low,7,Regular,2 Cups,5,Low
+18,74,150,Running,No History,78,Low,9,Regular,None,4,Low
+25,74,180,Running,No History,80,Low,8,Occasional,None,8,Low
+24,72,162,Running,No History,73,Low,9,Occasional,>2 Cups,3,Low
+21,72,151,Running,No History,90,Low,9,Rarely,None,2,Low
+21,75,166,Walking,No History,68,Low,9,Occasional,None,3,Low
+25,60,168,Running,No History,75,Low,9,Occasional,>2 Cups,7,Low
+27,76,170,Resting,No History,81,Low,9,Occasional,None,9,Low
+25,79,161,Walking,No History,93,Low,9,Occasional,>2 Cups,4,Low
+23,52,168,Running,No History,76,Low,7,Occasional,None,6,Low
+19,52,173,Running,No History,73,Low,8,Rarely,2 Cups,7,Low
+28,50,162,Resting,No History,83,Low,7,Occasional,>2 Cups,3,Low
+25,57,156,Resting,No History,61,Low,8,Regular,1 Cup,6,Low
+28,50,170,Resting,No History,83,Low,8,Occasional,>2 Cups,5,Low
+24,73,174,Walking,No History,100,Low,9,Rarely,1 Cup,9,Low
+26,81,165,Running,No History,86,Low,8,Rarely,1 Cup,2,Low
+23,56,176,Walking,No History,64,Low,8,Regular,1 Cup,2,Low
+21,52,156,Running,No History,89,Low,7,Occasional,2 Cups,3,Low
+19,75,165,Resting,No History,98,Low,9,Rarely,2 Cups,5,Low
+24,88,153,Resting,No History,81,Low,7,Regular,None,7,Low
+23,56,177,Walking,No History,60,Low,8,Rarely,>2 Cups,3,Low
+23,78,162,Running,No History,71,Low,9,Rarely,>2 Cups,8,Low
+24,84,173,Running,No History,70,Low,7,Regular,1 Cup,6,Low
+22,71,155,Walking,No History,77,Low,8,Occasional,1 Cup,8,Low
+26,51,167,Walking,No History,61,Low,8,Regular,>2 Cups,7,Low
+24,72,188,Walking,No History,87,Low,7,Occasional,None,6,Low
+19,69,176,Walking,No History,70,Low,9,Occasional,1 Cup,4,Low
+18,85,187,Walking,No History,67,Low,9,Regular,>2 Cups,5,Low
+23,65,153,Walking,No History,80,Low,7,Rarely,>2 Cups,8,Low
+24,84,175,Running,No History,73,Low,8,Occasional,>2 Cups,6,Low
+28,67,150,Walking,No History,82,Low,9,Occasional,1 Cup,2,Low
+21,62,177,Resting,No History,61,Low,9,Rarely,None,7,Low
+23,71,177,Walking,No History,98,Low,8,Rarely,None,7,Low
+22,57,174,Running,No History,70,Low,9,Regular,2 Cups,3,Low
+19,84,178,Running,No History,68,Low,9,Rarely,2 Cups,3,Low
+22,85,162,Walking,No History,82,Low,7,Rarely,None,7,Low
+25,71,150,Walking,No History,76,Low,9,Regular,2 Cups,2,Low
+19,66,185,Resting,No History,95,Low,9,Regular,1 Cup,8,Low
+23,51,153,Running,No History,64,Low,8,Rarely,>2 Cups,3,Low
+23,64,187,Resting,No History,71,Low,9,Occasional,2 Cups,8,Low
+19,55,189,Running,No History,75,Low,9,Rarely,1 Cup,6,Low
+19,88,177,Running,No History,71,Low,9,Rarely,1 Cup,5,Low
+29,59,155,Resting,No History,99,Low,9,Occasional,None,8,Low
+21,56,178,Running,No History,89,Low,9,Regular,None,7,Low
+28,70,186,Resting,No History,71,Low,9,Regular,1 Cup,3,Low
+21,75,184,Walking,No History,94,Low,8,Occasional,2 Cups,9,Low
+26,86,187,Resting,No History,98,Low,9,Occasional,None,8,Low
+24,85,165,Running,No History,65,Low,8,Rarely,1 Cup,9,Low
+27,53,183,Walking,No History,63,Low,8,Regular,1 Cup,8,Low
+26,64,168,Resting,No History,83,Low,9,Regular,2 Cups,8,Low
+18,86,159,Walking,No History,77,Low,7,Occasional,>2 Cups,4,Low
+29,54,181,Running,No History,62,Low,8,Rarely,2 Cups,5,Low
+20,89,178,Running,No History,86,Low,9,Rarely,>2 Cups,4,Low
+28,57,188,Walking,No History,70,Low,7,Rarely,2 Cups,7,Low
+28,50,172,Resting,No History,66,Low,8,Regular,>2 Cups,6,Low
+25,56,164,Running,No History,95,Low,8,Occasional,>2 Cups,4,Low
+19,51,157,Walking,No History,78,Low,7,Rarely,1 Cup,4,Low
+25,55,151,Resting,No History,73,Low,8,Rarely,1 Cup,4,Low
+29,80,160,Running,No History,65,Low,9,Regular,1 Cup,6,Low
+20,53,174,Walking,No History,76,Low,9,Regular,1 Cup,6,Low
+24,72,183,Resting,No History,75,Low,9,Occasional,2 Cups,9,Low
+21,68,184,Walking,No History,73,Low,9,Occasional,None,8,Low
+26,69,179,Walking,No History,96,Low,8,Occasional,1 Cup,3,Low
+29,65,177,Running,No History,85,Low,9,Regular,2 Cups,8,Low
+24,74,152,Walking,No History,89,Low,8,Regular,1 Cup,4,Low
+20,83,157,Resting,No History,64,Low,7,Regular,2 Cups,7,Low
+27,61,154,Resting,No History,84,Low,8,Regular,None,3,Low
+22,77,180,Walking,No History,63,Low,9,Rarely,2 Cups,9,Low
+22,89,162,Running,No History,98,Low,9,Rarely,None,6,Low
+29,69,186,Walking,No History,67,Low,9,Regular,1 Cup,3,Low
+22,65,155,Walking,No History,99,Low,9,Regular,None,6,Low
+21,60,188,Walking,No History,82,Low,8,Rarely,2 Cups,2,Low
+23,84,157,Walking,No History,79,Low,9,Rarely,>2 Cups,8,Low
+28,75,162,Running,No History,63,Low,7,Regular,None,3,Low
+22,67,182,Running,No History,75,Low,8,Occasional,1 Cup,8,Low
+22,57,158,Resting,No History,80,Low,9,Rarely,>2 Cups,8,Low
+25,70,171,Running,No History,74,Low,8,Rarely,2 Cups,2,Low
+22,51,155,Running,No History,65,Low,8,Regular,None,5,Low
+23,87,188,Resting,No History,90,Low,7,Occasional,1 Cup,8,Low
+25,84,172,Resting,No History,83,Low,8,Regular,>2 Cups,2,Low
+18,87,185,Running,No History,64,Low,8,Occasional,2 Cups,3,Low
+22,76,182,Walking,No History,79,Low,7,Rarely,None,9,Low
+25,76,174,Walking,No History,90,Low,8,Rarely,1 Cup,2,Low
+29,70,175,Resting,No History,71,Low,7,Occasional,1 Cup,2,Low
+24,68,153,Walking,No History,98,Low,8,Regular,2 Cups,3,Low
+28,77,185,Resting,No History,71,Low,9,Regular,1 Cup,9,Low
+19,50,164,Walking,No History,83,Low,8,Rarely,None,6,Low
+28,76,166,Running,No History,69,Low,7,Rarely,>2 Cups,3,Low
+25,59,187,Walking,No History,80,Low,7,Occasional,>2 Cups,6,Low
+20,84,168,Running,No History,68,Low,8,Occasional,2 Cups,4,Low
+23,85,184,Resting,No History,91,Low,7,Occasional,2 Cups,5,Low
+29,52,151,Running,No History,81,Low,8,Occasional,1 Cup,3,Low
+22,51,153,Running,No History,81,Low,7,Regular,2 Cups,4,Low
+28,78,186,Running,No History,72,Low,7,Regular,None,2,Low
+28,50,189,Running,No History,63,Low,9,Occasional,1 Cup,2,Low
+21,54,170,Walking,No History,69,Low,9,Occasional,2 Cups,5,Low
+19,62,180,Walking,No History,83,Low,7,Rarely,2 Cups,9,Low
+19,79,169,Walking,No History,79,Low,9,Occasional,None,9,Low
+21,61,168,Running,No History,88,Low,9,Occasional,1 Cup,5,Low
+22,85,178,Walking,No History,85,Low,8,Regular,2 Cups,8,Low
+19,66,153,Resting,No History,70,Low,8,Regular,1 Cup,4,Low
+18,78,171,Walking,No History,77,Low,7,Regular,1 Cup,3,Low
+24,72,160,Resting,No History,61,Low,8,Occasional,1 Cup,5,Low
+25,65,166,Running,No History,75,Low,7,Regular,>2 Cups,7,Low
+23,50,184,Walking,No History,94,Low,7,Rarely,>2 Cups,7,Low
+18,59,185,Walking,No History,87,Low,7,Occasional,2 Cups,9,Low
+29,89,189,Running,No History,78,Low,8,Occasional,2 Cups,3,Low
+20,86,153,Running,No History,72,Low,9,Rarely,2 Cups,8,Low
+22,63,151,Running,No History,64,Low,8,Rarely,1 Cup,8,Low
+28,82,169,Walking,No History,87,Low,9,Occasional,2 Cups,2,Low
+26,89,152,Running,No History,88,Low,7,Rarely,>2 Cups,6,Low
+21,68,165,Walking,No History,68,Low,8,Regular,>2 Cups,3,Low
+20,50,165,Running,No History,67,Low,9,Rarely,2 Cups,4,Low
+29,56,169,Walking,No History,83,Low,9,Occasional,>2 Cups,3,Low
+27,64,187,Resting,No History,63,Low,8,Occasional,1 Cup,3,Low
+18,63,183,Walking,No History,66,Low,7,Rarely,2 Cups,6,Low
+21,81,174,Running,No History,64,Low,7,Occasional,1 Cup,5,Low
+29,58,181,Walking,No History,87,Low,9,Rarely,>2 Cups,6,Low
+22,51,170,Running,No History,67,Low,8,Rarely,1 Cup,8,Low
+29,89,183,Walking,No History,87,Low,8,Regular,None,6,Low
+23,78,164,Running,No History,77,Low,7,Regular,>2 Cups,7,Low
+29,67,183,Walking,No History,99,Low,8,Occasional,1 Cup,9,Low
+25,69,177,Resting,No History,71,Low,8,Rarely,>2 Cups,6,Low
+19,77,182,Walking,No History,80,Low,8,Rarely,None,3,Low
+26,68,166,Walking,No History,84,Low,9,Rarely,None,6,Low
+26,83,161,Running,No History,100,Low,8,Occasional,2 Cups,6,Low
+22,60,177,Walking,No History,94,Low,8,Rarely,1 Cup,3,Low
+20,75,162,Resting,No History,62,Low,8,Occasional,None,5,Low
+22,52,156,Resting,No History,100,Low,7,Rarely,2 Cups,6,Low
+25,62,150,Walking,No History,74,Low,9,Regular,2 Cups,7,Low
+22,87,185,Walking,No History,63,Low,7,Occasional,>2 Cups,7,Low
+22,70,155,Running,No History,60,Low,9,Rarely,None,7,Low
+22,85,164,Resting,No History,96,Low,9,Regular,>2 Cups,9,Low
+19,75,186,Running,No History,87,Low,8,Occasional,None,9,Low
+19,56,165,Walking,No History,62,Low,7,Rarely,1 Cup,4,Low
+22,77,175,Resting,No History,82,Low,8,Regular,2 Cups,7,Low
+18,76,173,Walking,No History,62,Low,7,Regular,2 Cups,7,Low
+28,82,156,Resting,No History,64,Low,8,Occasional,1 Cup,7,Low
+25,82,178,Running,No History,82,Low,7,Rarely,1 Cup,9,Low
+21,83,180,Resting,No History,86,Low,7,Regular,None,6,Low
+24,87,161,Resting,No History,71,Low,9,Rarely,>2 Cups,6,Low
+29,67,187,Resting,No History,72,Low,7,Occasional,1 Cup,2,Low
+23,61,156,Running,No History,88,Low,7,Regular,>2 Cups,9,Low
+25,77,159,Running,No History,69,Low,9,Occasional,>2 Cups,2,Low
+29,71,156,Resting,No History,73,Low,7,Rarely,2 Cups,7,Low
+24,51,153,Walking,No History,94,Low,9,Occasional,2 Cups,9,Low
+27,52,189,Running,No History,92,Low,7,Rarely,None,8,Low
+21,78,176,Walking,No History,81,Low,7,Occasional,None,6,Low
+28,84,168,Resting,No History,81,Low,7,Occasional,None,4,Low
+28,86,186,Resting,No History,85,Low,8,Rarely,None,2,Low
+22,57,188,Resting,No History,63,Low,7,Regular,2 Cups,3,Low
+27,87,183,Running,No History,65,Low,7,Occasional,1 Cup,5,Low
+20,54,172,Resting,No History,67,Low,8,Rarely,>2 Cups,3,Low
+21,79,156,Walking,No History,75,Low,8,Occasional,2 Cups,3,Low
+26,72,186,Running,No History,67,Low,8,Occasional,None,5,Low
+19,70,178,Resting,No History,99,Low,7,Rarely,1 Cup,5,Low
+20,78,184,Resting,No History,83,Low,8,Regular,1 Cup,7,Low
+23,79,165,Resting,No History,78,Low,7,Regular,None,6,Low
+26,73,174,Walking,No History,60,Low,8,Regular,1 Cup,6,Low
+29,78,166,Running,No History,62,Low,7,Occasional,1 Cup,4,Low
+20,62,170,Walking,No History,95,Low,8,Rarely,1 Cup,5,Low
+23,54,163,Resting,No History,75,Low,7,Occasional,None,7,Low
+20,82,178,Resting,No History,60,Low,9,Occasional,2 Cups,3,Low
+29,60,152,Running,No History,88,Low,9,Occasional,1 Cup,3,Low
+23,53,152,Walking,No History,61,Low,8,Regular,None,8,Low
+18,74,177,Running,No History,77,Low,8,Regular,2 Cups,5,Low
+18,80,189,Running,No History,67,Low,7,Rarely,None,9,Low
+24,64,185,Walking,No History,73,Low,8,Regular,None,3,Low
+20,55,154,Resting,No History,93,Low,8,Rarely,2 Cups,5,Low
+23,57,157,Running,No History,74,Low,7,Rarely,1 Cup,2,Low
+25,67,181,Resting,No History,78,Low,9,Occasional,None,6,Low
+22,63,164,Walking,No History,79,Low,7,Regular,None,8,Low
+24,62,185,Running,No History,80,Low,7,Occasional,2 Cups,6,Low
+26,74,157,Walking,No History,72,Low,9,Rarely,1 Cup,8,Low
+19,81,179,Walking,No History,61,Low,9,Occasional,>2 Cups,6,Low
+18,83,153,Walking,No History,98,Low,7,Rarely,2 Cups,5,Low
+24,68,158,Running,No History,60,Low,9,Regular,2 Cups,7,Low
+23,84,172,Walking,No History,87,Low,8,Occasional,1 Cup,8,Low
+19,55,187,Resting,No History,71,Low,9,Rarely,None,5,Low
+21,71,153,Walking,No History,87,Low,8,Regular,None,3,Low
+19,77,182,Running,No History,95,Low,8,Rarely,2 Cups,6,Low
+29,73,155,Walking,No History,60,Low,7,Rarely,>2 Cups,8,Low
+22,52,177,Resting,No History,98,Low,8,Regular,2 Cups,2,Low
+25,67,175,Resting,No History,75,Low,8,Regular,2 Cups,8,Low
+28,68,166,Resting,No History,93,Low,9,Rarely,1 Cup,5,Low
+23,76,175,Resting,No History,69,Low,9,Regular,>2 Cups,5,Low
+28,64,151,Walking,No History,67,Low,7,Occasional,>2 Cups,4,Low
+19,53,179,Resting,No History,97,Low,8,Rarely,1 Cup,2,Low
+22,65,173,Walking,No History,73,Low,7,Occasional,>2 Cups,6,Low
+29,74,160,Resting,No History,92,Low,8,Regular,1 Cup,4,Low
+29,78,161,Running,No History,71,Low,9,Rarely,None,9,Low
+18,71,184,Walking,No History,64,Low,7,Regular,>2 Cups,2,Low
+27,69,185,Running,No History,81,Low,8,Rarely,2 Cups,6,Low
+25,75,157,Resting,No History,76,Low,9,Regular,None,4,Low
+28,77,182,Walking,No History,82,Low,7,Occasional,2 Cups,6,Low
+20,78,160,Walking,No History,73,Low,8,Regular,2 Cups,5,Low
+25,63,181,Resting,No History,75,Low,9,Rarely,None,5,Low
+25,63,181,Walking,No History,94,Low,7,Rarely,1 Cup,4,Low
+29,73,154,Resting,No History,96,Low,7,Occasional,1 Cup,7,Low
+20,67,159,Running,No History,77,Low,7,Regular,None,5,Low
+20,64,157,Walking,No History,63,Low,8,Regular,None,4,Low
+23,70,161,Running,No History,75,Low,8,Rarely,1 Cup,3,Low
+23,56,181,Resting,No History,100,Low,8,Rarely,>2 Cups,8,Low
+28,63,150,Running,No History,89,Low,9,Occasional,>2 Cups,6,Low
+18,62,150,Walking,No History,99,Low,9,Occasional,None,9,Low
+26,88,170,Resting,No History,84,Low,9,Occasional,2 Cups,5,Low
+26,52,156,Resting,No History,62,Low,9,Regular,>2 Cups,6,Low
+28,89,187,Resting,No History,64,Low,8,Regular,None,7,Low
+25,86,182,Walking,No History,61,Low,7,Rarely,>2 Cups,2,Low
+28,80,181,Running,No History,76,Low,9,Regular,None,3,Low
+23,69,185,Walking,No History,63,Low,8,Occasional,1 Cup,4,Low
+22,51,171,Resting,No History,82,Low,8,Rarely,2 Cups,7,Low
+20,67,166,Resting,No History,95,Low,8,Regular,1 Cup,9,Low
+21,81,185,Running,No History,90,Low,7,Rarely,>2 Cups,3,Low
+18,57,157,Resting,No History,93,Low,7,Rarely,2 Cups,6,Low
+21,75,162,Running,No History,78,Low,9,Occasional,None,2,Low
+28,78,157,Walking,No History,96,Low,8,Regular,None,2,Low
+18,55,161,Walking,No History,99,Low,9,Occasional,2 Cups,4,Low
+24,50,172,Walking,No History,63,Low,7,Occasional,None,4,Low
+29,57,174,Resting,No History,82,Low,9,Occasional,2 Cups,3,Low
+24,87,178,Walking,No History,63,Low,8,Regular,None,2,Low
+24,79,153,Running,No History,77,Low,9,Regular,None,5,Low
+24,51,183,Walking,No History,97,Low,8,Rarely,None,3,Low
+23,67,165,Resting,No History,88,Low,8,Rarely,2 Cups,2,Low
+26,57,156,Resting,No History,84,Low,9,Rarely,2 Cups,5,Low
+19,73,182,Running,No History,74,Low,9,Occasional,1 Cup,8,Low
+27,51,186,Running,No History,83,Low,9,Occasional,1 Cup,5,Low
+23,65,154,Walking,No History,88,Low,7,Rarely,1 Cup,8,Low
+23,81,164,Resting,No History,95,Low,8,Regular,>2 Cups,7,Low
+19,80,151,Resting,No History,68,Low,8,Regular,2 Cups,9,Low
+20,76,161,Walking,No History,66,Low,7,Occasional,1 Cup,5,Low
+27,73,157,Resting,No History,133,Medium,6,Regular,None,9,Moderate
+22,55,186,Walking,Diabetes,112,Medium,6,Rarely,1 Cup,4,Moderate
+19,62,150,Walking,Diabetes,118,Medium,5,Regular,>2 Cups,7,Moderate
+18,63,189,Resting,No History,117,Medium,6,Regular,2 Cups,6,Moderate
+24,53,181,Walking,No History,107,Medium,5,Rarely,>2 Cups,9,Moderate
+22,56,157,Resting,No History,120,Medium,6,Occasional,1 Cup,8,Moderate
+23,85,172,Running,Diabetes,108,Medium,6,Regular,2 Cups,3,Moderate
+25,76,157,Running,Diabetes,121,Medium,6,Regular,2 Cups,4,Moderate
+21,86,168,Walking,Diabetes,111,Medium,5,Regular,None,8,Moderate
+25,79,159,Resting,No History,132,Medium,7,Rarely,2 Cups,5,Moderate
+26,67,181,Walking,Diabetes,136,Medium,7,Rarely,2 Cups,8,Moderate
+22,64,182,Walking,No History,103,Medium,5,Rarely,>2 Cups,3,Moderate
+19,72,176,Walking,Diabetes,113,Medium,7,Occasional,None,5,Moderate
+28,57,166,Walking,No History,128,Medium,6,Regular,1 Cup,4,Moderate
+25,71,182,Walking,Diabetes,104,Medium,6,Regular,>2 Cups,6,Moderate
+28,71,167,Running,No History,125,Medium,6,Occasional,None,5,Moderate
+21,70,160,Running,Diabetes,130,Medium,6,Regular,None,7,Moderate
+29,55,170,Resting,Diabetes,125,Medium,7,Occasional,1 Cup,7,Moderate
+18,86,165,Resting,No History,130,Medium,6,Occasional,>2 Cups,8,Moderate
+25,75,174,Walking,No History,109,Medium,5,Regular,2 Cups,9,Moderate
+28,63,188,Resting,No History,108,Medium,7,Occasional,None,9,Moderate
+27,63,168,Resting,No History,121,Medium,6,Occasional,>2 Cups,2,Moderate
+27,77,161,Walking,Diabetes,119,Medium,7,Occasional,1 Cup,2,Moderate
+21,60,156,Walking,Diabetes,119,Medium,7,Regular,1 Cup,8,Moderate
+20,84,151,Walking,Diabetes,118,Medium,7,Regular,>2 Cups,6,Moderate
+21,79,155,Resting,Diabetes,114,Medium,6,Occasional,1 Cup,2,Moderate
+26,58,158,Running,No History,124,Medium,5,Regular,2 Cups,9,Moderate
+24,78,172,Running,No History,127,Medium,6,Occasional,2 Cups,8,Moderate
+29,72,179,Running,No History,104,Medium,5,Rarely,1 Cup,2,Moderate
+24,62,187,Walking,Diabetes,116,Medium,7,Rarely,2 Cups,9,Moderate
+21,73,180,Walking,Diabetes,126,Medium,7,Occasional,1 Cup,9,Moderate
+19,67,160,Resting,Diabetes,136,Medium,7,Rarely,None,6,Moderate
+23,87,180,Running,No History,122,Medium,7,Occasional,None,9,Moderate
+26,70,166,Walking,No History,133,Medium,5,Occasional,>2 Cups,5,Moderate
+28,86,168,Running,Diabetes,130,Medium,5,Occasional,None,5,Moderate
+27,78,156,Resting,Diabetes,113,Medium,6,Rarely,2 Cups,7,Moderate
+29,76,158,Walking,No History,132,Medium,5,Regular,2 Cups,8,Moderate
+27,84,163,Walking,No History,115,Medium,5,Occasional,2 Cups,8,Moderate
+23,58,157,Walking,No History,129,Medium,6,Regular,2 Cups,5,Moderate
+26,81,176,Walking,No History,129,Medium,7,Rarely,1 Cup,2,Moderate
+22,68,179,Walking,No History,117,Medium,6,Rarely,1 Cup,8,Moderate
+28,62,165,Resting,No History,126,Medium,6,Rarely,2 Cups,4,Moderate
+29,74,172,Resting,Diabetes,106,Medium,5,Rarely,>2 Cups,9,Moderate
+22,67,160,Resting,No History,111,Medium,5,Regular,None,9,Moderate
+19,79,186,Walking,Diabetes,115,Medium,5,Regular,1 Cup,5,Moderate
+25,51,150,Walking,Diabetes,125,Medium,5,Rarely,2 Cups,6,Moderate
+25,55,169,Resting,Diabetes,120,Medium,6,Occasional,None,8,Moderate
+22,84,179,Running,Diabetes,126,Medium,6,Occasional,1 Cup,7,Moderate
+29,77,171,Resting,Diabetes,103,Medium,5,Rarely,>2 Cups,2,Moderate
+21,84,180,Resting,No History,121,Medium,5,Occasional,2 Cups,8,Moderate
+25,74,166,Walking,Diabetes,125,Medium,7,Occasional,>2 Cups,3,Moderate
+21,71,167,Resting,No History,103,Medium,7,Occasional,None,2,Moderate
+28,82,186,Resting,No History,115,Medium,7,Regular,None,2,Moderate
+23,66,187,Walking,Diabetes,120,Medium,7,Occasional,2 Cups,2,Moderate
+22,88,173,Resting,Diabetes,133,Medium,7,Rarely,1 Cup,8,Moderate
+24,65,172,Resting,Diabetes,120,Medium,5,Rarely,1 Cup,8,Moderate
+25,58,166,Running,Diabetes,100,Medium,6,Rarely,>2 Cups,2,Moderate
+27,56,188,Walking,Diabetes,127,Medium,6,Occasional,1 Cup,3,Moderate
+18,61,174,Running,Diabetes,108,Medium,5,Occasional,1 Cup,5,Moderate
+19,89,161,Running,Diabetes,131,Medium,7,Regular,None,7,Moderate
+25,59,182,Resting,No History,129,Medium,6,Rarely,1 Cup,7,Moderate
+18,57,177,Walking,Diabetes,122,Medium,5,Regular,>2 Cups,2,Moderate
+22,83,167,Walking,No History,100,Medium,6,Rarely,1 Cup,7,Moderate
+28,81,156,Walking,Diabetes,105,Medium,5,Regular,2 Cups,5,Moderate
+21,78,171,Resting,No History,107,Medium,5,Occasional,None,3,Moderate
+22,66,176,Walking,Diabetes,131,Medium,7,Occasional,1 Cup,6,Moderate
+26,56,151,Resting,Diabetes,125,Medium,5,Rarely,None,9,Moderate
+24,66,166,Walking,Diabetes,106,Medium,6,Regular,>2 Cups,7,Moderate
+21,55,150,Running,No History,133,Medium,6,Regular,2 Cups,3,Moderate
+27,70,172,Walking,No History,104,Medium,6,Occasional,1 Cup,6,Moderate
+20,73,166,Running,Diabetes,106,Medium,6,Occasional,1 Cup,5,Moderate
+26,61,181,Running,Diabetes,136,Medium,6,Regular,2 Cups,2,Moderate
+21,72,180,Running,No History,126,Medium,5,Occasional,None,8,Moderate
+22,81,152,Resting,Diabetes,126,Medium,7,Rarely,>2 Cups,4,Moderate
+25,68,181,Resting,No History,118,Medium,6,Occasional,1 Cup,7,Moderate
+21,60,182,Running,No History,139,Medium,5,Occasional,1 Cup,8,Moderate
+25,59,182,Resting,Diabetes,104,Medium,7,Regular,None,4,Moderate
+23,81,184,Resting,No History,126,Medium,5,Rarely,2 Cups,8,Moderate
+20,64,177,Running,No History,139,Medium,6,Occasional,1 Cup,4,Moderate
+23,62,159,Resting,Diabetes,128,Medium,6,Regular,2 Cups,4,Moderate
+25,66,176,Resting,Diabetes,104,Medium,6,Rarely,None,3,Moderate
+23,58,167,Resting,No History,114,Medium,6,Occasional,>2 Cups,7,Moderate
+24,53,155,Running,Diabetes,134,Medium,6,Occasional,>2 Cups,3,Moderate
+18,56,154,Resting,Diabetes,107,Medium,5,Rarely,>2 Cups,2,Moderate
+22,73,154,Walking,No History,117,Medium,5,Occasional,>2 Cups,3,Moderate
+27,89,174,Walking,No History,126,Medium,7,Rarely,1 Cup,6,Moderate
+18,59,151,Resting,No History,110,Medium,6,Regular,>2 Cups,4,Moderate
+22,64,173,Resting,No History,115,Medium,5,Regular,2 Cups,3,Moderate
+18,64,166,Walking,Diabetes,105,Medium,7,Rarely,1 Cup,3,Moderate
+29,81,156,Walking,Diabetes,110,Medium,7,Occasional,None,6,Moderate
+18,76,177,Walking,Diabetes,137,Medium,5,Rarely,2 Cups,9,Moderate
+20,80,181,Walking,No History,109,Medium,5,Regular,1 Cup,7,Moderate
+21,53,152,Resting,Diabetes,134,Medium,7,Occasional,1 Cup,7,Moderate
+19,77,169,Running,No History,123,Medium,5,Rarely,1 Cup,8,Moderate
+28,87,156,Resting,Diabetes,136,Medium,6,Regular,None,7,Moderate
+19,87,166,Resting,No History,135,Medium,6,Regular,1 Cup,8,Moderate
+24,65,154,Resting,No History,101,Medium,7,Regular,None,9,Moderate
+19,85,157,Running,Diabetes,139,Medium,7,Rarely,2 Cups,3,Moderate
+29,80,152,Resting,Diabetes,139,Medium,5,Rarely,2 Cups,9,Moderate
+29,70,170,Running,Diabetes,110,Medium,7,Rarely,1 Cup,3,Moderate
+21,80,164,Resting,No History,111,Medium,7,Occasional,None,9,Moderate
+26,58,175,Walking,No History,136,Medium,6,Regular,2 Cups,9,Moderate
+26,89,151,Resting,Diabetes,119,Medium,5,Occasional,None,3,Moderate
+25,57,163,Resting,No History,139,Medium,6,Occasional,1 Cup,6,Moderate
+24,69,188,Resting,Diabetes,106,Medium,5,Regular,None,9,Moderate
+26,65,185,Running,Diabetes,112,Medium,5,Regular,>2 Cups,3,Moderate
+21,74,156,Resting,Diabetes,136,Medium,6,Rarely,>2 Cups,5,Moderate
+18,62,183,Running,Diabetes,116,Medium,7,Regular,>2 Cups,5,Moderate
+25,76,174,Running,No History,106,Medium,7,Regular,1 Cup,3,Moderate
+28,56,158,Resting,No History,138,Medium,6,Regular,2 Cups,4,Moderate
+19,84,167,Walking,No History,117,Medium,7,Regular,1 Cup,7,Moderate
+20,61,173,Running,No History,140,Medium,7,Rarely,1 Cup,4,Moderate
+25,70,165,Resting,No History,106,Medium,5,Rarely,1 Cup,5,Moderate
+19,82,180,Running,No History,114,Medium,5,Occasional,>2 Cups,3,Moderate
+24,70,161,Resting,No History,129,Medium,7,Regular,2 Cups,3,Moderate
+19,53,155,Walking,Diabetes,105,Medium,7,Regular,1 Cup,3,Moderate
+25,53,170,Resting,Diabetes,127,Medium,5,Rarely,2 Cups,3,Moderate
+24,52,153,Resting,No History,118,Medium,7,Regular,1 Cup,3,Moderate
+21,64,166,Walking,No History,113,Medium,7,Rarely,2 Cups,2,Moderate
+28,62,170,Walking,Diabetes,134,Medium,6,Occasional,1 Cup,6,Moderate
+28,74,169,Running,No History,131,Medium,7,Rarely,None,6,Moderate
+25,66,171,Running,No History,117,Medium,5,Regular,>2 Cups,2,Moderate
+24,83,158,Running,No History,124,Medium,7,Regular,1 Cup,7,Moderate
+18,78,172,Walking,Diabetes,111,Medium,6,Rarely,2 Cups,4,Moderate
+19,67,160,Walking,Diabetes,120,Medium,7,Regular,>2 Cups,7,Moderate
+27,73,171,Walking,Diabetes,118,Medium,5,Occasional,None,5,Moderate
+29,63,180,Resting,No History,121,Medium,5,Regular,1 Cup,5,Moderate
+21,79,185,Resting,No History,111,Medium,5,Rarely,None,6,Moderate
+25,62,151,Walking,No History,102,Medium,6,Regular,2 Cups,3,Moderate
+26,65,181,Resting,Diabetes,131,Medium,6,Occasional,None,9,Moderate
+19,86,160,Walking,Diabetes,109,Medium,5,Occasional,>2 Cups,5,Moderate
+21,89,158,Walking,No History,134,Medium,7,Regular,2 Cups,9,Moderate
+23,87,169,Walking,No History,109,Medium,6,Rarely,2 Cups,7,Moderate
+20,66,181,Running,Diabetes,132,Medium,5,Regular,1 Cup,9,Moderate
+18,70,177,Running,No History,104,Medium,6,Rarely,1 Cup,9,Moderate
+18,62,170,Running,No History,108,Medium,7,Regular,>2 Cups,2,Moderate
+28,82,173,Resting,No History,137,Medium,5,Regular,None,2,Moderate
+19,84,174,Running,Diabetes,114,Medium,7,Rarely,>2 Cups,7,Moderate
+29,72,177,Resting,No History,126,Medium,7,Occasional,>2 Cups,8,Moderate
+19,87,162,Resting,Diabetes,109,Medium,6,Occasional,>2 Cups,3,Moderate
+26,80,154,Walking,No History,140,Medium,7,Occasional,1 Cup,8,Moderate
+21,80,168,Resting,Diabetes,116,Medium,7,Occasional,None,9,Moderate
+28,83,178,Walking,No History,125,Medium,7,Regular,1 Cup,9,Moderate
+19,53,152,Resting,Diabetes,135,Medium,6,Occasional,None,8,Moderate
+28,69,166,Resting,Diabetes,121,Medium,6,Regular,1 Cup,7,Moderate
+23,88,150,Running,Diabetes,132,Medium,5,Occasional,None,9,Moderate
+19,80,184,Resting,No History,115,Medium,5,Rarely,1 Cup,8,Moderate
+21,53,181,Resting,No History,135,Medium,7,Rarely,None,6,Moderate
+18,75,150,Running,No History,121,Medium,6,Rarely,1 Cup,7,Moderate
+19,87,159,Running,No History,104,Medium,5,Rarely,1 Cup,8,Moderate
+20,77,164,Running,No History,135,Medium,6,Rarely,None,8,Moderate
+26,63,172,Running,No History,104,Medium,7,Occasional,1 Cup,6,Moderate
+26,62,162,Running,Diabetes,139,Medium,7,Rarely,1 Cup,4,Moderate
+28,56,169,Resting,No History,124,Medium,7,Rarely,None,7,Moderate
+21,89,175,Walking,No History,132,Medium,6,Rarely,None,6,Moderate
+24,58,154,Running,Diabetes,131,Medium,5,Regular,>2 Cups,4,Moderate
+18,60,171,Walking,No History,137,Medium,7,Rarely,None,9,Moderate
+26,78,168,Running,Diabetes,138,Medium,6,Rarely,None,4,Moderate
+27,89,152,Resting,Diabetes,102,Medium,7,Rarely,None,7,Moderate
+29,74,175,Resting,No History,101,Medium,5,Regular,2 Cups,8,Moderate
+18,89,172,Walking,Diabetes,116,Medium,7,Rarely,1 Cup,9,Moderate
+22,86,160,Running,Diabetes,139,Medium,6,Regular,2 Cups,7,Moderate
+27,52,188,Walking,No History,113,Medium,6,Occasional,None,6,Moderate
+28,73,154,Running,Diabetes,130,Medium,6,Regular,1 Cup,6,Moderate
+28,68,152,Walking,No History,111,Medium,5,Occasional,1 Cup,6,Moderate
+27,57,182,Running,No History,107,Medium,6,Occasional,>2 Cups,7,Moderate
+25,53,181,Walking,Diabetes,112,Medium,7,Regular,>2 Cups,3,Moderate
+25,86,176,Walking,No History,138,Medium,7,Rarely,None,2,Moderate
+21,55,163,Walking,Diabetes,115,Medium,6,Rarely,>2 Cups,5,Moderate
+22,76,152,Walking,No History,106,Medium,7,Occasional,None,7,Moderate
+22,71,159,Walking,No History,125,Medium,7,Regular,1 Cup,6,Moderate
+21,88,180,Resting,No History,106,Medium,5,Rarely,None,4,Moderate
+27,67,158,Running,Diabetes,110,Medium,5,Occasional,>2 Cups,2,Moderate
+29,51,169,Walking,No History,125,Medium,7,Occasional,1 Cup,7,Moderate
+24,82,161,Running,Diabetes,135,Medium,7,Regular,None,6,Moderate
+22,82,151,Resting,Diabetes,105,Medium,5,Occasional,2 Cups,7,Moderate
+27,50,158,Running,Diabetes,120,Medium,7,Occasional,2 Cups,5,Moderate
+26,80,182,Running,No History,123,Medium,5,Rarely,None,9,Moderate
+24,73,185,Walking,Diabetes,108,Medium,6,Regular,None,4,Moderate
+28,55,174,Resting,No History,133,Medium,7,Rarely,>2 Cups,5,Moderate
+21,64,188,Running,Diabetes,130,Medium,7,Occasional,None,6,Moderate
+25,75,168,Running,Diabetes,103,Medium,5,Occasional,None,6,Moderate
+24,78,174,Running,No History,138,Medium,5,Regular,2 Cups,9,Moderate
+26,77,184,Resting,Diabetes,106,Medium,6,Regular,2 Cups,4,Moderate
+29,61,178,Walking,Diabetes,116,Medium,5,Rarely,>2 Cups,6,Moderate
+21,60,164,Resting,Diabetes,132,Medium,5,Rarely,>2 Cups,2,Moderate
+29,83,168,Walking,Diabetes,122,Medium,6,Rarely,2 Cups,3,Moderate
+22,70,171,Resting,No History,108,Medium,6,Occasional,1 Cup,6,Moderate
+21,57,177,Walking,Diabetes,118,Medium,7,Occasional,>2 Cups,2,Moderate
+25,87,159,Walking,No History,126,Medium,6,Regular,None,6,Moderate
+25,59,160,Walking,No History,129,Medium,5,Occasional,>2 Cups,9,Moderate
+20,84,176,Running,No History,132,Medium,7,Rarely,>2 Cups,4,Moderate
+25,73,166,Resting,No History,109,Medium,7,Rarely,1 Cup,2,Moderate
+25,86,169,Walking,No History,118,Medium,7,Regular,2 Cups,4,Moderate
+29,56,164,Resting,No History,121,Medium,6,Regular,None,7,Moderate
+20,87,150,Running,No History,137,Medium,6,Regular,1 Cup,2,Moderate
+22,80,177,Running,No History,108,Medium,7,Rarely,>2 Cups,8,Moderate
+27,83,162,Walking,Diabetes,118,Medium,5,Rarely,1 Cup,8,Moderate
+20,67,189,Resting,No History,130,Medium,5,Regular,1 Cup,7,Moderate
+24,68,166,Resting,Diabetes,133,Medium,6,Regular,2 Cups,8,Moderate
+25,62,165,Resting,Diabetes,115,Medium,6,Rarely,None,3,Moderate
+18,73,174,Resting,Diabetes,127,Medium,7,Rarely,2 Cups,8,Moderate
+25,84,186,Running,Diabetes,128,Medium,7,Rarely,1 Cup,7,Moderate
+18,80,169,Walking,No History,102,Medium,6,Occasional,2 Cups,9,Moderate
+25,71,165,Resting,Diabetes,118,Medium,5,Rarely,2 Cups,7,Moderate
+21,55,163,Resting,Diabetes,125,Medium,6,Occasional,2 Cups,4,Moderate
+21,52,186,Running,Diabetes,117,Medium,6,Regular,1 Cup,4,Moderate
+23,83,162,Walking,Diabetes,139,Medium,5,Occasional,2 Cups,3,Moderate
+27,74,175,Running,No History,125,Medium,5,Occasional,2 Cups,9,Moderate
+23,57,188,Running,No History,113,Medium,6,Occasional,None,6,Moderate
+24,76,166,Walking,Diabetes,137,Medium,5,Rarely,>2 Cups,2,Moderate
+22,88,164,Running,No History,128,Medium,6,Rarely,2 Cups,4,Moderate
+24,57,184,Resting,No History,110,Medium,7,Occasional,2 Cups,8,Moderate
+18,70,178,Walking,No History,118,Medium,6,Rarely,1 Cup,9,Moderate
+22,56,172,Walking,No History,107,Medium,6,Occasional,2 Cups,3,Moderate
+26,77,171,Running,No History,111,Medium,5,Occasional,None,2,Moderate
+23,73,158,Resting,No History,104,Medium,6,Rarely,>2 Cups,7,Moderate
+21,81,181,Walking,No History,100,Medium,6,Rarely,>2 Cups,7,Moderate
+27,80,166,Walking,Diabetes,110,Medium,5,Rarely,2 Cups,2,Moderate
+26,80,184,Running,No History,138,Medium,7,Rarely,None,2,Moderate
+22,51,159,Resting,Diabetes,106,Medium,7,Regular,1 Cup,2,Moderate
+21,72,163,Walking,No History,130,Medium,6,Rarely,>2 Cups,8,Moderate
+26,82,182,Running,No History,133,Medium,6,Rarely,1 Cup,2,Moderate
+19,65,183,Walking,No History,138,Medium,6,Regular,None,7,Moderate
+29,84,155,Resting,Diabetes,140,Medium,5,Regular,2 Cups,7,Moderate
+20,58,184,Resting,Diabetes,136,Medium,6,Rarely,1 Cup,9,Moderate
+19,85,173,Running,No History,131,Medium,7,Occasional,>2 Cups,6,Moderate
+20,78,172,Walking,Diabetes,132,Medium,6,Regular,>2 Cups,5,Moderate
+23,54,175,Resting,Diabetes,128,Medium,7,Regular,>2 Cups,9,Moderate
+18,75,170,Resting,No History,108,Medium,5,Rarely,>2 Cups,7,Moderate
+28,64,152,Running,No History,140,Medium,7,Occasional,1 Cup,2,Moderate
+19,87,181,Resting,Diabetes,109,Medium,5,Occasional,None,3,Moderate
+29,81,162,Running,Diabetes,101,Medium,7,Regular,1 Cup,4,Moderate
+26,83,166,Running,No History,121,Medium,7,Regular,None,3,Moderate
+26,80,167,Running,No History,111,Medium,6,Rarely,2 Cups,4,Moderate
+22,57,157,Walking,No History,109,Medium,7,Regular,>2 Cups,9,Moderate
+24,73,175,Resting,Diabetes,139,Medium,7,Occasional,None,9,Moderate
+23,82,150,Running,Diabetes,118,Medium,5,Occasional,2 Cups,9,Moderate
+23,73,177,Walking,Diabetes,129,Medium,5,Regular,2 Cups,6,Moderate
+26,79,172,Resting,No History,105,Medium,7,Rarely,1 Cup,8,Moderate
+29,63,155,Resting,No History,110,Medium,5,Regular,>2 Cups,5,Moderate
+26,86,162,Resting,No History,106,Medium,7,Regular,2 Cups,6,Moderate
+29,55,160,Running,No History,102,Medium,5,Regular,2 Cups,3,Moderate
+21,77,178,Walking,Diabetes,135,Medium,6,Occasional,2 Cups,3,Moderate
+27,86,179,Running,Diabetes,131,Medium,5,Rarely,2 Cups,2,Moderate
+28,62,184,Walking,No History,106,Medium,5,Rarely,2 Cups,7,Moderate
+24,55,150,Walking,Diabetes,112,Medium,6,Rarely,None,3,Moderate
+18,66,176,Walking,Diabetes,122,Medium,5,Regular,>2 Cups,6,Moderate
+27,85,160,Walking,No History,130,Medium,6,Occasional,>2 Cups,8,Moderate
+29,78,180,Running,No History,120,Medium,7,Occasional,None,8,Moderate
+28,73,169,Walking,Diabetes,102,Medium,6,Occasional,>2 Cups,7,Moderate
+19,71,189,Resting,No History,120,Medium,5,Occasional,>2 Cups,9,Moderate
+27,69,157,Resting,Diabetes,115,Medium,7,Regular,>2 Cups,2,Moderate
+29,85,183,Resting,Diabetes,100,Medium,7,Rarely,None,3,Moderate
+25,71,181,Resting,No History,112,Medium,5,Occasional,1 Cup,3,Moderate
+20,54,151,Running,No History,136,Medium,5,Regular,>2 Cups,6,Moderate
+20,69,153,Resting,No History,104,Medium,5,Occasional,>2 Cups,6,Moderate
+19,79,173,Resting,No History,107,Medium,7,Rarely,1 Cup,2,Moderate
+18,56,158,Walking,No History,134,Medium,5,Regular,1 Cup,5,Moderate
+25,74,186,Walking,Diabetes,133,Medium,6,Occasional,2 Cups,9,Moderate
+18,73,177,Resting,No History,135,Medium,7,Occasional,1 Cup,7,Moderate
+23,58,159,Running,No History,109,Medium,6,Regular,2 Cups,2,Moderate
+22,55,165,Resting,Diabetes,114,Medium,7,Occasional,1 Cup,3,Moderate
+23,71,157,Resting,Diabetes,113,Medium,5,Regular,None,6,Moderate
+20,81,169,Resting,No History,101,Medium,5,Rarely,None,8,Moderate
+23,56,182,Walking,No History,126,Medium,7,Occasional,1 Cup,9,Moderate
+23,63,166,Resting,Diabetes,128,Medium,6,Occasional,2 Cups,5,Moderate
+24,52,168,Running,No History,104,Medium,5,Rarely,2 Cups,3,Moderate
+21,66,163,Walking,No History,126,Medium,7,Occasional,2 Cups,7,Moderate
+23,73,163,Resting,No History,103,Medium,5,Regular,2 Cups,8,Moderate
+29,58,173,Running,No History,108,Medium,5,Rarely,None,6,Moderate
+27,59,186,Running,No History,120,Medium,5,Occasional,None,5,Moderate
+25,80,159,Running,No History,101,Medium,7,Rarely,None,5,Moderate
+18,73,174,Resting,No History,108,Medium,7,Occasional,2 Cups,4,Moderate
+27,55,167,Walking,Diabetes,104,Medium,7,Occasional,None,4,Moderate
+25,64,160,Walking,No History,116,Medium,6,Rarely,None,3,Moderate
+19,72,154,Resting,Diabetes,136,Medium,5,Occasional,None,5,Moderate
+27,89,153,Resting,Diabetes,125,Medium,6,Occasional,None,3,Moderate
+19,76,162,Walking,No History,108,Medium,6,Regular,2 Cups,4,Moderate
+24,50,152,Running,Diabetes,130,Medium,5,Regular,None,3,Moderate
+28,56,177,Resting,No History,103,Medium,5,Rarely,2 Cups,3,Moderate
+20,64,178,Walking,No History,130,Medium,7,Occasional,None,5,Moderate
+29,55,183,Running,Diabetes,113,Medium,7,Occasional,>2 Cups,2,Moderate
+28,67,158,Walking,No History,109,Medium,6,Occasional,2 Cups,6,Moderate
+29,73,175,Running,No History,114,Medium,6,Regular,None,2,Moderate
+21,72,168,Walking,Diabetes,111,Medium,5,Occasional,2 Cups,7,Moderate
+29,66,153,Resting,Diabetes,110,Medium,5,Occasional,None,2,Moderate
+27,59,176,Running,Diabetes,100,Medium,6,Rarely,>2 Cups,9,Moderate
+20,64,154,Walking,No History,120,Medium,6,Regular,2 Cups,2,Moderate
+27,86,155,Resting,No History,111,Medium,6,Rarely,2 Cups,9,Moderate
+23,69,177,Running,No History,139,Medium,5,Occasional,1 Cup,5,Moderate
+18,85,165,Resting,No History,129,Medium,5,Occasional,None,4,Moderate
+26,88,188,Walking,No History,127,Medium,5,Occasional,2 Cups,5,Moderate
+26,67,163,Resting,No History,120,Medium,5,Occasional,1 Cup,2,Moderate
+29,74,154,Walking,No History,112,Medium,6,Regular,>2 Cups,2,Moderate
+27,85,176,Resting,Diabetes,102,Medium,7,Regular,2 Cups,7,Moderate
+25,63,171,Running,Diabetes,131,Medium,6,Occasional,1 Cup,9,Moderate
+20,72,153,Running,No History,124,Medium,7,Rarely,1 Cup,3,Moderate
+21,70,164,Walking,No History,125,Medium,6,Regular,2 Cups,3,Moderate
+18,74,174,Running,Diabetes,121,Medium,6,Occasional,2 Cups,2,Moderate
+27,70,154,Walking,Diabetes,114,Medium,5,Regular,2 Cups,2,Moderate
+27,74,159,Resting,No History,101,Medium,5,Regular,2 Cups,7,Moderate
+22,72,165,Running,No History,131,Medium,5,Rarely,2 Cups,4,Moderate
+29,79,158,Running,No History,134,Medium,5,Occasional,2 Cups,4,Moderate
+22,88,154,Resting,No History,133,Medium,6,Rarely,None,2,Moderate
+27,87,171,Resting,Diabetes,115,Medium,7,Rarely,>2 Cups,2,Moderate
+20,71,184,Resting,Diabetes,116,Medium,6,Regular,1 Cup,5,Moderate
+24,71,168,Resting,Diabetes,134,Medium,7,Rarely,2 Cups,9,Moderate
+28,53,154,Running,Diabetes,103,Medium,7,Occasional,>2 Cups,3,Moderate
+25,85,161,Walking,Diabetes,138,Medium,6,Regular,>2 Cups,8,Moderate
+20,65,167,Resting,Diabetes,130,Medium,7,Occasional,None,8,Moderate
+24,88,173,Walking,No History,112,Medium,7,Rarely,1 Cup,6,Moderate
+25,82,162,Walking,No History,110,Medium,7,Rarely,2 Cups,5,Moderate
+18,62,163,Running,No History,115,Medium,5,Rarely,>2 Cups,3,Moderate
+24,58,171,Running,No History,120,Medium,5,Rarely,2 Cups,9,Moderate
+22,59,151,Resting,No History,134,Medium,5,Occasional,1 Cup,5,Moderate
+24,53,164,Resting,Diabetes,126,Medium,5,Regular,1 Cup,3,Moderate
+19,51,150,Resting,Diabetes,108,Medium,5,Rarely,1 Cup,8,Moderate
+24,72,176,Walking,No History,132,Medium,6,Rarely,None,5,Moderate
+19,80,187,Running,No History,123,Medium,7,Regular,>2 Cups,5,Moderate
+28,71,164,Walking,No History,122,Medium,5,Rarely,None,5,Moderate
+19,88,150,Walking,Diabetes,113,Medium,7,Rarely,>2 Cups,3,Moderate
+28,64,153,Running,Diabetes,134,Medium,7,Regular,1 Cup,4,Moderate
+20,76,176,Resting,Diabetes,106,Medium,5,Regular,2 Cups,4,Moderate
+18,68,170,Running,Diabetes,125,Medium,7,Rarely,1 Cup,6,Moderate
+28,75,156,Running,Diabetes,138,Medium,7,Rarely,None,9,Moderate
+25,80,187,Walking,Diabetes,118,Medium,6,Rarely,None,2,Moderate
+21,60,153,Running,Diabetes,112,Medium,6,Regular,2 Cups,6,Moderate
+22,82,153,Walking,Diabetes,131,Medium,6,Regular,>2 Cups,5,Moderate
+27,86,174,Running,Diabetes,130,Medium,6,Occasional,None,4,Moderate
+20,66,157,Resting,Diabetes,132,Medium,7,Occasional,2 Cups,3,Moderate
+27,79,171,Walking,No History,105,Medium,6,Regular,2 Cups,8,Moderate
+22,87,187,Resting,Diabetes,109,Medium,7,Occasional,None,5,Moderate
+18,56,172,Resting,Diabetes,114,Medium,6,Regular,>2 Cups,3,Moderate
+25,51,181,Resting,No History,114,Medium,7,Rarely,2 Cups,3,Moderate
+29,68,158,Walking,Diabetes,102,Medium,5,Regular,1 Cup,9,Moderate
+27,51,182,Resting,No History,121,Medium,7,Regular,None,7,Moderate
+28,60,153,Running,No History,110,Medium,7,Occasional,>2 Cups,8,Moderate
+25,52,179,Running,Diabetes,110,Medium,7,Regular,2 Cups,2,Moderate
+18,85,171,Running,Diabetes,119,Medium,5,Occasional,>2 Cups,3,Moderate
+25,59,177,Running,No History,110,Medium,5,Regular,2 Cups,9,Moderate
+25,67,160,Running,No History,138,Medium,5,Occasional,None,6,Moderate
+21,68,182,Walking,No History,140,Medium,7,Regular,2 Cups,3,Moderate
+24,69,180,Resting,No History,130,Medium,7,Rarely,>2 Cups,3,Moderate
+24,62,154,Running,Diabetes,133,Medium,6,Occasional,1 Cup,7,Moderate
+26,85,154,Resting,No History,108,Medium,7,Rarely,>2 Cups,2,Moderate
+21,50,184,Running,No History,117,Medium,6,Regular,None,7,Moderate
+18,56,173,Walking,Diabetes,116,Medium,5,Occasional,>2 Cups,8,Moderate
+23,88,167,Running,No History,108,Medium,6,Rarely,1 Cup,7,Moderate
+22,55,160,Resting,Diabetes,123,Medium,7,Regular,1 Cup,9,Moderate
+22,51,154,Running,No History,127,Medium,6,Regular,1 Cup,8,Moderate
+25,74,160,Walking,Diabetes,136,Medium,7,Occasional,>2 Cups,8,Moderate
+24,84,178,Resting,Diabetes,140,Medium,5,Regular,None,8,Moderate
+18,85,184,Walking,No History,114,Medium,5,Occasional,1 Cup,3,Moderate
+28,65,189,Running,Diabetes,124,Medium,7,Occasional,1 Cup,2,Moderate
+23,81,179,Walking,Diabetes,126,Medium,6,Regular,>2 Cups,3,Moderate
+29,61,158,Running,No History,116,Medium,6,Occasional,1 Cup,4,Moderate
+22,84,189,Walking,Diabetes,113,Medium,7,Regular,None,9,Moderate
+23,66,174,Resting,Diabetes,134,Medium,7,Occasional,None,3,Moderate
+19,69,181,Resting,Diabetes,123,Medium,7,Occasional,2 Cups,5,Moderate
+23,64,171,Walking,Diabetes,116,Medium,7,Rarely,1 Cup,7,Moderate
+20,81,159,Walking,No History,120,Medium,7,Occasional,1 Cup,2,Moderate
+20,69,163,Resting,No History,100,Medium,7,Regular,>2 Cups,3,Moderate
+23,85,176,Resting,Diabetes,127,Medium,7,Occasional,1 Cup,8,Moderate
+19,89,175,Running,No History,133,Medium,6,Rarely,None,3,Moderate
+26,76,181,Resting,Diabetes,120,Medium,5,Rarely,1 Cup,7,Moderate
+27,51,168,Resting,Diabetes,133,Medium,6,Occasional,1 Cup,6,Moderate
+20,50,168,Walking,Diabetes,125,Medium,7,Regular,2 Cups,9,Moderate
+22,87,156,Running,No History,129,Medium,5,Occasional,2 Cups,4,Moderate
+24,75,172,Walking,Diabetes,140,Medium,7,Occasional,1 Cup,8,Moderate
+25,56,188,Running,Diabetes,132,Medium,7,Rarely,2 Cups,3,Moderate
+25,85,169,Walking,No History,129,Medium,5,Occasional,None,2,Moderate
+23,74,173,Resting,Diabetes,107,Medium,7,Regular,1 Cup,4,Moderate
+26,52,160,Resting,Diabetes,129,Medium,6,Rarely,1 Cup,4,Moderate
+26,52,157,Running,No History,139,Medium,6,Occasional,>2 Cups,9,Moderate
+19,74,163,Walking,Diabetes,119,Medium,5,Rarely,1 Cup,2,Moderate
+28,70,156,Resting,Diabetes,100,Medium,6,Regular,>2 Cups,4,Moderate
+28,77,174,Resting,No History,107,Medium,6,Occasional,None,3,Moderate
+26,71,183,Resting,No History,135,Medium,7,Occasional,>2 Cups,9,Moderate
+23,83,173,Walking,Diabetes,132,Medium,5,Rarely,2 Cups,4,Moderate
+19,73,156,Running,Diabetes,120,Medium,7,Occasional,1 Cup,7,Moderate
+28,75,153,Running,Diabetes,105,Medium,6,Rarely,1 Cup,4,Moderate
+24,53,170,Resting,Diabetes,135,Medium,6,Rarely,None,4,Moderate
+29,72,161,Resting,No History,122,Medium,5,Regular,2 Cups,2,Moderate
+24,80,176,Resting,Diabetes,127,Medium,7,Rarely,1 Cup,8,Moderate
+21,78,183,Resting,Diabetes,135,Medium,6,Rarely,None,5,Moderate
+23,85,171,Resting,Diabetes,116,Medium,6,Rarely,1 Cup,3,Moderate
+24,86,182,Walking,Diabetes,128,Medium,7,Occasional,>2 Cups,4,Moderate
+29,76,159,Walking,No History,115,Medium,5,Rarely,None,9,Moderate
+20,81,161,Running,Diabetes,113,Medium,7,Rarely,2 Cups,2,Moderate
+22,69,171,Walking,Diabetes,129,Medium,7,Rarely,None,8,Moderate
+26,64,164,Running,No History,104,Medium,5,Rarely,>2 Cups,6,Moderate
+28,83,167,Resting,No History,115,Medium,6,Rarely,1 Cup,2,Moderate
+21,77,167,Walking,Diabetes,139,Medium,6,Rarely,>2 Cups,4,Moderate
+21,52,152,Walking,No History,101,Medium,5,Occasional,>2 Cups,4,Moderate
+25,73,155,Resting,No History,109,Medium,5,Regular,2 Cups,6,Moderate
+24,64,188,Running,No History,122,Medium,7,Rarely,1 Cup,3,Moderate
+19,83,185,Running,Diabetes,125,Medium,7,Rarely,>2 Cups,7,Moderate
+28,88,165,Running,No History,125,Medium,6,Occasional,>2 Cups,5,Moderate
+19,73,174,Running,Diabetes,111,Medium,6,Occasional,2 Cups,7,Moderate
+23,56,158,Running,Diabetes,139,Medium,6,Rarely,>2 Cups,2,Moderate
+23,61,159,Running,Diabetes,123,Medium,7,Regular,2 Cups,2,Moderate
+20,52,177,Walking,No History,124,Medium,6,Rarely,2 Cups,6,Moderate
+18,62,157,Walking,No History,106,Medium,6,Regular,1 Cup,6,Moderate
+25,51,150,Running,No History,109,Medium,7,Regular,1 Cup,4,Moderate
+19,51,155,Resting,Diabetes,130,Medium,7,Occasional,>2 Cups,2,Moderate
+21,63,153,Resting,No History,121,Medium,7,Regular,None,7,Moderate
+25,58,171,Running,Diabetes,138,Medium,6,Occasional,2 Cups,4,Moderate
+27,67,150,Resting,Diabetes,115,Medium,5,Occasional,2 Cups,9,Moderate
+24,54,157,Running,Diabetes,101,Medium,6,Regular,None,2,Moderate
+18,61,172,Running,Diabetes,105,Medium,6,Occasional,1 Cup,8,Moderate
+29,89,180,Running,No History,114,Medium,7,Occasional,None,7,Moderate
+26,77,188,Walking,Diabetes,139,Medium,7,Occasional,None,7,Moderate
+29,63,183,Walking,No History,134,Medium,5,Regular,2 Cups,6,Moderate
+28,50,162,Walking,Diabetes,139,Medium,6,Regular,None,6,Moderate
+29,83,176,Resting,Diabetes,115,Medium,5,Occasional,2 Cups,6,Moderate
+28,52,157,Running,No History,129,Medium,7,Occasional,2 Cups,4,Moderate
+20,75,172,Running,No History,113,Medium,6,Regular,1 Cup,5,Moderate
+19,63,153,Resting,No History,123,Medium,5,Occasional,2 Cups,3,Moderate
+24,75,170,Walking,No History,102,Medium,5,Regular,1 Cup,7,Moderate
+24,51,165,Resting,Diabetes,113,Medium,7,Occasional,1 Cup,8,Moderate
+23,55,186,Walking,Diabetes,116,Medium,7,Rarely,None,6,Moderate
+21,52,153,Resting,No History,116,Medium,7,Regular,>2 Cups,8,Moderate
+18,85,180,Resting,No History,128,Medium,7,Rarely,>2 Cups,7,Moderate
+21,51,164,Walking,No History,128,Medium,5,Rarely,None,2,Moderate
+24,84,157,Resting,No History,115,Medium,6,Regular,2 Cups,7,Moderate
+24,74,167,Walking,No History,127,Medium,6,Occasional,2 Cups,4,Moderate
+27,53,180,Resting,Diabetes,130,Medium,6,Occasional,2 Cups,5,Moderate
+28,68,155,Running,Diabetes,121,Medium,5,Rarely,1 Cup,5,Moderate
+19,53,176,Walking,Diabetes,139,Medium,6,Occasional,None,6,Moderate
+21,81,161,Walking,Diabetes,109,Medium,6,Occasional,2 Cups,4,Moderate
+24,56,167,Running,Diabetes,136,Medium,5,Regular,2 Cups,8,Moderate
+21,86,162,Resting,Diabetes,111,Medium,7,Regular,>2 Cups,6,Moderate
+28,70,160,Running,Diabetes,105,Medium,7,Rarely,2 Cups,2,Moderate
+26,63,168,Walking,Diabetes,127,Medium,6,Occasional,None,6,Moderate
+29,70,167,Walking,No History,138,Medium,7,Rarely,2 Cups,9,Moderate
+21,56,159,Running,Diabetes,123,Medium,7,Regular,1 Cup,6,Moderate
+24,79,170,Resting,Diabetes,137,Medium,5,Regular,2 Cups,7,Moderate
+21,64,173,Walking,Diabetes,109,Medium,5,Occasional,None,3,Moderate
+24,73,155,Running,No History,103,Medium,7,Regular,>2 Cups,7,Moderate
+27,54,176,Running,No History,116,Medium,6,Regular,None,8,Moderate
+27,50,175,Running,No History,121,Medium,7,Rarely,>2 Cups,6,Moderate
+24,51,175,Resting,No History,131,Medium,7,Regular,2 Cups,6,Moderate
+20,64,151,Walking,Diabetes,128,Medium,7,Rarely,1 Cup,6,Moderate
+20,80,150,Resting,Diabetes,120,Medium,5,Occasional,1 Cup,8,Moderate
+23,89,169,Resting,Diabetes,113,Medium,5,Occasional,1 Cup,6,Moderate
+19,60,170,Resting,No History,130,Medium,6,Rarely,None,9,Moderate
+24,54,171,Resting,No History,133,Medium,6,Occasional,1 Cup,4,Moderate
+28,52,174,Running,Diabetes,119,Medium,7,Regular,None,3,Moderate
+28,72,163,Running,No History,136,Medium,6,Occasional,None,9,Moderate
+18,70,152,Walking,Diabetes,122,Medium,6,Regular,None,8,Moderate
+20,61,181,Running,Diabetes,103,Medium,7,Rarely,>2 Cups,4,Moderate
+28,81,171,Running,No History,123,Medium,5,Regular,2 Cups,5,Moderate
+24,75,173,Running,No History,106,Medium,5,Occasional,>2 Cups,7,Moderate
+19,59,174,Walking,Diabetes,140,Medium,7,Regular,>2 Cups,5,Moderate
+29,77,186,Walking,No History,137,Medium,5,Occasional,1 Cup,2,Moderate
+18,70,189,Running,No History,116,Medium,7,Occasional,1 Cup,9,Moderate
+28,61,153,Resting,No History,129,Medium,7,Rarely,2 Cups,7,Moderate
+24,50,181,Running,No History,102,Medium,7,Occasional,1 Cup,8,Moderate
+24,54,182,Running,No History,102,Medium,7,Rarely,2 Cups,4,Moderate
+24,71,173,Running,No History,136,Medium,5,Occasional,>2 Cups,2,Moderate
+28,62,161,Walking,No History,122,Medium,6,Regular,>2 Cups,9,Moderate
+18,71,157,Running,No History,101,Medium,6,Rarely,1 Cup,8,Moderate
+20,89,182,Running,No History,119,Medium,5,Rarely,1 Cup,4,Moderate
+25,81,159,Resting,Diabetes,103,Medium,5,Regular,>2 Cups,3,Moderate
+27,56,170,Running,No History,121,Medium,6,Rarely,>2 Cups,6,Moderate
+26,84,173,Running,No History,106,Medium,7,Rarely,>2 Cups,7,Moderate
+26,89,189,Running,Diabetes,103,Medium,6,Rarely,None,7,Moderate
+24,63,176,Running,No History,132,Medium,6,Occasional,2 Cups,8,Moderate
+19,64,180,Running,No History,126,Medium,7,Regular,2 Cups,7,Moderate
+22,76,167,Running,No History,119,Medium,5,Regular,>2 Cups,4,Moderate
+26,64,164,Resting,No History,118,Medium,5,Rarely,1 Cup,6,Moderate
+23,56,187,Resting,Diabetes,115,Medium,7,Occasional,None,8,Moderate
+26,80,156,Walking,No History,139,Medium,7,Rarely,>2 Cups,7,Moderate
+27,79,183,Resting,No History,135,Medium,5,Occasional,>2 Cups,4,Moderate
+19,76,163,Walking,Diabetes,127,Medium,7,Occasional,None,2,Moderate
+20,79,181,Running,Diabetes,128,Medium,6,Regular,1 Cup,7,Moderate
+19,66,180,Resting,Diabetes,106,Medium,5,Rarely,1 Cup,7,Moderate
+27,82,158,Resting,No History,103,Medium,7,Regular,2 Cups,5,Moderate
+23,63,161,Running,No History,119,Medium,6,Regular,2 Cups,7,Moderate
+24,73,167,Resting,Diabetes,119,Medium,5,Rarely,None,7,Moderate
+23,82,160,Resting,Diabetes,139,Medium,5,Occasional,2 Cups,8,Moderate
+28,75,154,Walking,Diabetes,137,Medium,5,Rarely,1 Cup,2,Moderate
+19,78,153,Running,No History,115,Medium,5,Rarely,1 Cup,9,Moderate
+18,66,155,Walking,No History,106,Medium,7,Occasional,>2 Cups,3,Moderate
+21,70,187,Resting,No History,134,Medium,6,Regular,1 Cup,2,Moderate
+26,71,165,Walking,Diabetes,125,Medium,7,Regular,1 Cup,5,Moderate
+27,61,187,Running,Diabetes,126,Medium,5,Rarely,>2 Cups,9,Moderate
+20,64,177,Walking,Diabetes,104,Medium,7,Regular,None,7,Moderate
+29,50,165,Walking,Diabetes,115,Medium,6,Rarely,2 Cups,7,Moderate
+22,58,155,Resting,No History,132,Medium,6,Regular,>2 Cups,3,Moderate
+19,56,150,Running,Diabetes,102,Medium,5,Regular,None,6,Moderate
+21,72,175,Walking,No History,110,Medium,7,Rarely,>2 Cups,4,Moderate
+20,50,165,Walking,No History,101,Medium,7,Regular,2 Cups,3,Moderate
+18,59,184,Running,Diabetes,138,Medium,6,Occasional,None,3,Moderate
+26,57,156,Walking,Diabetes,120,Medium,6,Rarely,None,3,Moderate
+24,69,171,Running,Diabetes,122,Medium,7,Rarely,1 Cup,4,Moderate
+19,85,175,Resting,No History,114,Medium,6,Occasional,None,6,Moderate
+21,76,161,Walking,No History,103,Medium,5,Rarely,None,7,Moderate
+22,51,183,Walking,No History,109,Medium,5,Rarely,1 Cup,8,Moderate
+26,67,150,Running,No History,104,Medium,6,Occasional,1 Cup,9,Moderate
+27,66,153,Running,No History,126,Medium,6,Occasional,2 Cups,7,Moderate
+28,83,163,Walking,Diabetes,119,Medium,5,Rarely,>2 Cups,6,Moderate
+29,73,182,Walking,No History,123,Medium,6,Regular,>2 Cups,9,Moderate
+24,85,172,Running,No History,125,Medium,5,Rarely,2 Cups,6,Moderate
+18,78,164,Walking,No History,137,Medium,6,Rarely,2 Cups,7,Moderate
+25,57,164,Resting,No History,128,Medium,5,Regular,1 Cup,7,Moderate
+21,81,167,Resting,Diabetes,107,Medium,5,Rarely,>2 Cups,6,Moderate
+20,58,167,Running,Diabetes,129,Medium,7,Regular,1 Cup,7,Moderate
+20,68,156,Walking,No History,107,Medium,7,Regular,2 Cups,6,Moderate
+29,65,177,Running,No History,101,Medium,7,Regular,>2 Cups,8,Moderate
+27,62,187,Resting,No History,106,Medium,7,Regular,None,6,Moderate
+22,73,186,Walking,Diabetes,114,Medium,5,Rarely,1 Cup,9,Moderate
+21,85,187,Resting,No History,107,Medium,7,Rarely,>2 Cups,3,Moderate
+25,77,189,Walking,Diabetes,109,Medium,6,Occasional,>2 Cups,8,Moderate
+25,82,152,Walking,No History,109,Medium,7,Rarely,2 Cups,4,Moderate
+20,66,159,Running,Diabetes,116,Medium,7,Occasional,>2 Cups,2,Moderate
+26,89,168,Resting,No History,120,Medium,5,Occasional,1 Cup,5,Moderate
+23,83,188,Walking,No History,103,Medium,5,Rarely,>2 Cups,5,Moderate
+23,72,175,Walking,Diabetes,114,Medium,7,Occasional,2 Cups,8,Moderate
+26,81,152,Walking,No History,130,Medium,5,Regular,None,9,Moderate
+29,89,169,Resting,No History,118,Medium,5,Rarely,None,4,Moderate
+19,75,160,Running,No History,126,Medium,7,Regular,None,3,Moderate
+20,77,167,Resting,Diabetes,117,Medium,7,Occasional,2 Cups,9,Moderate
+25,83,172,Resting,Diabetes,127,Medium,5,Occasional,None,4,Moderate
+20,61,155,Walking,Diabetes,136,Medium,7,Regular,None,5,Moderate
+29,58,156,Walking,No History,121,Medium,6,Regular,2 Cups,5,Moderate
+21,56,173,Resting,Diabetes,113,Medium,5,Rarely,1 Cup,9,Moderate
+23,66,182,Walking,Diabetes,105,Medium,6,Occasional,1 Cup,6,Moderate
+25,68,173,Running,Diabetes,132,Medium,6,Occasional,>2 Cups,5,Moderate
+20,60,152,Resting,No History,106,Medium,5,Regular,2 Cups,9,Moderate
+29,58,189,Walking,Diabetes,139,Medium,6,Regular,1 Cup,7,Moderate
+22,78,188,Resting,Diabetes,127,Medium,7,Regular,2 Cups,3,Moderate
+25,60,171,Running,No History,139,Medium,7,Occasional,2 Cups,9,Moderate
+28,78,175,Running,No History,137,Medium,7,Regular,None,7,Moderate
+18,58,186,Running,Diabetes,123,Medium,6,Rarely,1 Cup,8,Moderate
+29,88,155,Running,No History,121,Medium,5,Rarely,None,3,Moderate
+21,88,185,Running,No History,100,Medium,6,Occasional,2 Cups,7,Moderate
+23,85,165,Resting,No History,101,Medium,5,Occasional,None,5,Moderate
+19,69,150,Resting,No History,116,Medium,7,Regular,2 Cups,7,Moderate
+26,54,156,Resting,Diabetes,107,Medium,5,Regular,2 Cups,6,Moderate
+25,56,168,Resting,Diabetes,100,Medium,6,Occasional,1 Cup,5,Moderate
+20,53,182,Resting,No History,135,Medium,6,Occasional,2 Cups,8,Moderate
+23,64,158,Resting,Diabetes,122,Medium,6,Occasional,>2 Cups,2,Moderate
+22,70,176,Resting,No History,107,Medium,7,Rarely,>2 Cups,3,Moderate
+20,82,182,Running,Diabetes,125,Medium,6,Occasional,2 Cups,6,Moderate
+24,56,150,Walking,Diabetes,130,Medium,5,Occasional,1 Cup,6,Moderate
+18,65,152,Resting,No History,108,Medium,7,Rarely,>2 Cups,3,Moderate
+26,77,151,Running,No History,111,Medium,7,Regular,None,9,Moderate
+29,80,187,Running,Diabetes,129,Medium,7,Rarely,1 Cup,7,Moderate
+21,57,178,Walking,No History,104,Medium,5,Occasional,None,7,Moderate
+26,63,162,Resting,No History,107,Medium,5,Rarely,1 Cup,9,Moderate
+22,78,170,Walking,Diabetes,138,Medium,7,Rarely,>2 Cups,6,Moderate
+27,79,183,Running,No History,140,Medium,7,Regular,2 Cups,2,Moderate
+18,70,171,Walking,No History,102,Medium,5,Regular,None,6,Moderate
+23,63,163,Resting,No History,126,Medium,5,Regular,2 Cups,8,Moderate
+25,87,170,Resting,No History,117,Medium,7,Rarely,1 Cup,4,Moderate
+27,87,174,Resting,Diabetes,115,Medium,6,Rarely,>2 Cups,6,Moderate
+28,57,152,Resting,No History,113,Medium,7,Occasional,None,9,Moderate
+21,59,183,Walking,No History,116,Medium,6,Regular,2 Cups,3,Moderate
+20,76,174,Running,Diabetes,109,Medium,6,Rarely,None,7,Moderate
+28,54,179,Resting,No History,124,Medium,6,Occasional,1 Cup,4,Moderate
+25,65,158,Walking,No History,126,Medium,7,Rarely,1 Cup,5,Moderate
+29,51,186,Walking,No History,112,Medium,6,Rarely,1 Cup,5,Moderate
+18,83,171,Resting,Diabetes,118,Medium,7,Regular,>2 Cups,9,Moderate
+19,61,169,Resting,No History,134,Medium,5,Occasional,2 Cups,2,Moderate
+23,76,179,Walking,Diabetes,128,Medium,7,Regular,2 Cups,2,Moderate
+24,55,161,Running,Diabetes,104,Medium,5,Regular,2 Cups,9,Moderate
+28,89,173,Running,Diabetes,133,Medium,7,Regular,1 Cup,9,Moderate
+18,74,151,Resting,Diabetes,131,Medium,7,Rarely,1 Cup,6,Moderate
+28,86,169,Resting,Diabetes,111,Medium,7,Regular,2 Cups,7,Moderate
+24,67,164,Resting,No History,117,Medium,7,Rarely,None,3,Moderate
+27,56,173,Resting,No History,122,Medium,7,Rarely,None,6,Moderate
+23,83,162,Resting,No History,118,Medium,5,Occasional,None,7,Moderate
+24,50,168,Running,No History,121,Medium,6,Regular,>2 Cups,9,Moderate
+23,81,167,Running,Diabetes,125,Medium,6,Rarely,2 Cups,3,Moderate
+29,84,180,Resting,No History,125,Medium,7,Occasional,None,4,Moderate
+22,50,176,Running,No History,129,Medium,5,Rarely,>2 Cups,6,Moderate
+27,85,154,Resting,Diabetes,107,Medium,6,Occasional,None,3,Moderate
+22,88,176,Resting,No History,125,Medium,5,Regular,2 Cups,5,Moderate
+24,53,189,Running,No History,110,Medium,7,Regular,2 Cups,6,Moderate
+23,64,160,Walking,No History,123,Medium,7,Rarely,1 Cup,6,Moderate
+18,88,159,Walking,Diabetes,132,Medium,7,Rarely,>2 Cups,6,Moderate
+28,61,162,Walking,Diabetes,117,Medium,5,Rarely,2 Cups,6,Moderate
+20,89,170,Running,Diabetes,133,Medium,6,Occasional,>2 Cups,3,Moderate
+23,80,168,Walking,No History,103,Medium,6,Rarely,1 Cup,3,Moderate
+27,65,185,Walking,No History,128,Medium,7,Occasional,1 Cup,8,Moderate
+19,63,179,Walking,No History,136,Medium,6,Occasional,>2 Cups,8,Moderate
+22,73,164,Walking,No History,117,Medium,7,Occasional,>2 Cups,5,Moderate
+28,65,154,Running,No History,108,Medium,6,Occasional,None,8,Moderate
+23,65,165,Walking,Diabetes,109,Medium,7,Occasional,None,9,Moderate
+18,51,151,Walking,Diabetes,130,Medium,6,Occasional,1 Cup,2,Moderate
+19,53,184,Walking,Diabetes,128,Medium,6,Occasional,2 Cups,5,Moderate
+21,87,157,Resting,No History,102,Medium,7,Occasional,1 Cup,9,Moderate
+25,82,172,Resting,No History,102,Medium,7,Regular,1 Cup,2,Moderate
+24,87,166,Walking,Diabetes,120,Medium,5,Occasional,1 Cup,3,Moderate
+18,78,173,Walking,No History,107,Medium,6,Occasional,1 Cup,3,Moderate
+23,65,158,Running,No History,113,Medium,5,Rarely,1 Cup,8,Moderate
+29,71,182,Running,No History,130,Medium,6,Rarely,>2 Cups,3,Moderate
+28,65,177,Walking,No History,103,Medium,6,Regular,>2 Cups,4,Moderate
+19,73,162,Running,No History,117,Medium,6,Occasional,1 Cup,4,Moderate
+29,75,154,Resting,No History,132,Medium,7,Rarely,>2 Cups,8,Moderate
+18,52,165,Resting,Diabetes,136,Medium,6,Regular,2 Cups,2,Moderate
+24,84,186,Resting,Diabetes,120,Medium,7,Rarely,1 Cup,4,Moderate
+22,55,154,Resting,Diabetes,136,Medium,7,Rarely,None,2,Moderate
+20,55,168,Resting,No History,128,Medium,7,Occasional,>2 Cups,8,Moderate
+18,75,175,Running,Diabetes,103,Medium,5,Regular,2 Cups,6,Moderate
+28,65,164,Resting,Diabetes,100,Medium,5,Rarely,>2 Cups,9,Moderate
+22,50,159,Running,Diabetes,103,Medium,6,Rarely,1 Cup,7,Moderate
+27,66,188,Running,Diabetes,124,Medium,7,Regular,1 Cup,5,Moderate
+20,61,154,Resting,Diabetes,101,Medium,5,Occasional,None,7,Moderate
+20,68,160,Running,Diabetes,103,Medium,7,Rarely,1 Cup,8,Moderate
+21,63,177,Walking,Diabetes,111,Medium,6,Occasional,1 Cup,2,Moderate
+29,66,189,Running,Diabetes,100,Medium,6,Occasional,None,5,Moderate
+28,86,180,Resting,Diabetes,130,Medium,6,Regular,1 Cup,8,Moderate
+23,60,176,Walking,No History,124,Medium,6,Regular,None,6,Moderate
+27,69,189,Walking,Diabetes,137,Medium,5,Occasional,1 Cup,7,Moderate
+28,58,154,Running,No History,121,Medium,6,Regular,None,4,Moderate
+18,55,165,Running,No History,122,Medium,5,Rarely,None,5,Moderate
+22,70,188,Running,No History,126,Medium,5,Occasional,None,3,Moderate
+21,81,175,Running,No History,135,Medium,7,Occasional,>2 Cups,8,Moderate
+28,53,170,Resting,No History,120,Medium,6,Occasional,1 Cup,6,Moderate
+19,64,174,Running,Diabetes,121,Medium,7,Rarely,None,3,Moderate
+29,79,173,Running,No History,102,Medium,6,Regular,>2 Cups,8,Moderate
+25,69,174,Resting,No History,123,Medium,5,Rarely,None,3,Moderate
+28,62,153,Walking,Diabetes,134,Medium,6,Occasional,2 Cups,2,Moderate
+23,67,172,Running,No History,106,Medium,7,Regular,2 Cups,7,Moderate
+28,51,162,Resting,No History,131,Medium,7,Occasional,1 Cup,5,Moderate
+20,83,158,Running,No History,131,Medium,5,Occasional,>2 Cups,6,Moderate
+19,67,175,Running,No History,122,Medium,5,Occasional,>2 Cups,2,Moderate
+21,62,159,Resting,No History,117,Medium,7,Rarely,>2 Cups,9,Moderate
+23,68,150,Resting,Diabetes,127,Medium,7,Occasional,1 Cup,4,Moderate
+20,77,157,Walking,Diabetes,127,Medium,5,Rarely,>2 Cups,3,Moderate
+27,50,167,Running,Diabetes,118,Medium,5,Rarely,None,4,Moderate
+21,89,155,Resting,Diabetes,114,Medium,7,Occasional,None,2,Moderate
+25,57,168,Walking,No History,134,Medium,5,Rarely,>2 Cups,5,Moderate
+26,74,153,Walking,Diabetes,133,Medium,6,Occasional,2 Cups,3,Moderate
+25,78,160,Resting,Diabetes,106,Medium,7,Regular,2 Cups,3,Moderate
+20,68,166,Resting,No History,136,Medium,6,Rarely,2 Cups,8,Moderate
+18,88,189,Resting,No History,116,Medium,5,Occasional,2 Cups,6,Moderate
+28,53,173,Resting,No History,138,Medium,6,Rarely,1 Cup,7,Moderate
+26,72,180,Resting,Diabetes,110,Medium,5,Regular,>2 Cups,6,Moderate
+24,56,178,Running,No History,108,Medium,6,Rarely,1 Cup,9,Moderate
+29,66,177,Running,No History,139,Medium,5,Occasional,2 Cups,8,Moderate
+24,69,168,Resting,Diabetes,109,Medium,6,Regular,>2 Cups,7,Moderate
+28,79,158,Walking,Diabetes,108,Medium,5,Regular,>2 Cups,6,Moderate
+19,72,155,Resting,Diabetes,105,Medium,7,Rarely,None,3,Moderate
+22,59,185,Running,No History,100,Medium,6,Occasional,1 Cup,5,Moderate
+29,65,186,Running,No History,124,Medium,7,Rarely,None,8,Moderate
+27,82,170,Running,No History,113,Medium,7,Regular,2 Cups,8,Moderate
+24,84,160,Running,Diabetes,136,Medium,5,Regular,2 Cups,2,Moderate
+18,58,158,Running,No History,115,Medium,7,Occasional,2 Cups,6,Moderate
+25,85,161,Resting,Diabetes,120,Medium,7,Regular,>2 Cups,3,Moderate
+25,78,166,Resting,No History,100,Medium,6,Occasional,1 Cup,9,Moderate
+23,84,155,Walking,Diabetes,135,Medium,5,Rarely,1 Cup,6,Moderate
+28,86,153,Running,No History,118,Medium,5,Regular,None,6,Moderate
+29,79,159,Resting,Diabetes,137,Medium,5,Rarely,2 Cups,9,Moderate
+26,75,178,Walking,No History,129,Medium,7,Regular,1 Cup,6,Moderate
+27,56,160,Walking,No History,105,Medium,7,Occasional,1 Cup,2,Moderate
+24,67,177,Resting,Diabetes,121,Medium,6,Regular,1 Cup,4,Moderate
+21,58,185,Running,Diabetes,125,Medium,6,Occasional,1 Cup,7,Moderate
+20,69,153,Walking,No History,104,Medium,7,Regular,>2 Cups,2,Moderate
+18,85,182,Resting,No History,113,Medium,7,Rarely,2 Cups,2,Moderate
+20,50,183,Running,Diabetes,133,Medium,5,Regular,None,2,Moderate
+18,62,164,Running,Diabetes,121,Medium,6,Regular,2 Cups,8,Moderate
+23,67,170,Resting,Diabetes,124,Medium,5,Regular,1 Cup,4,Moderate
+29,69,153,Resting,No History,109,Medium,7,Rarely,1 Cup,3,Moderate
+22,65,167,Walking,Diabetes,133,Medium,5,Rarely,2 Cups,7,Moderate
+29,72,151,Resting,Diabetes,117,Medium,6,Occasional,>2 Cups,6,Moderate
+21,57,160,Running,Diabetes,112,Medium,7,Regular,1 Cup,6,Moderate
+18,50,181,Running,No History,124,Medium,5,Rarely,1 Cup,5,Moderate
+25,76,189,Walking,Diabetes,108,Medium,5,Occasional,2 Cups,9,Moderate
+22,88,164,Running,Diabetes,116,Medium,7,Regular,2 Cups,9,Moderate
+26,59,153,Resting,Diabetes,128,Medium,5,Regular,None,4,Moderate
+28,56,152,Walking,Diabetes,111,Medium,6,Regular,>2 Cups,3,Moderate
+20,56,154,Running,Diabetes,113,Medium,5,Regular,1 Cup,5,Moderate
+29,85,174,Running,No History,129,Medium,7,Regular,1 Cup,5,Moderate
+21,54,187,Resting,No History,122,Medium,7,Occasional,>2 Cups,3,Moderate
+23,62,181,Walking,No History,137,Medium,5,Occasional,>2 Cups,2,Moderate
+20,82,158,Resting,No History,123,Medium,6,Rarely,>2 Cups,8,Moderate
+23,53,170,Running,No History,128,Medium,5,Regular,2 Cups,6,Moderate
+23,68,173,Resting,Diabetes,118,Medium,7,Occasional,>2 Cups,7,Moderate
+25,85,171,Running,Diabetes,117,Medium,5,Rarely,None,5,Moderate
+26,57,155,Resting,No History,112,Medium,5,Rarely,None,7,Moderate
+27,63,158,Walking,Diabetes,101,Medium,6,Regular,None,2,Moderate
+19,78,170,Walking,No History,125,Medium,6,Rarely,None,5,Moderate
+29,82,175,Running,Diabetes,119,Medium,6,Regular,>2 Cups,9,Moderate
+29,68,166,Resting,No History,109,Medium,6,Occasional,2 Cups,7,Moderate
+18,85,168,Resting,Diabetes,126,Medium,5,Occasional,>2 Cups,2,Moderate
+27,53,165,Resting,Diabetes,112,Medium,6,Regular,2 Cups,3,Moderate
+22,65,152,Walking,Diabetes,100,Medium,5,Regular,2 Cups,2,Moderate
+25,72,153,Running,Diabetes,107,Medium,6,Occasional,>2 Cups,8,Moderate
+19,57,171,Walking,Diabetes,101,Medium,7,Rarely,1 Cup,6,Moderate
+20,80,150,Resting,Diabetes,140,Medium,7,Rarely,>2 Cups,3,Moderate
+20,68,154,Walking,No History,138,Medium,5,Regular,2 Cups,7,Moderate
+20,57,165,Running,No History,120,Medium,7,Regular,1 Cup,6,Moderate
+19,62,152,Resting,No History,103,Medium,7,Rarely,1 Cup,7,Moderate
+21,70,170,Running,No History,126,Medium,6,Rarely,>2 Cups,5,Moderate
+20,73,158,Resting,Diabetes,135,Medium,6,Regular,2 Cups,3,Moderate
+25,77,175,Walking,No History,127,Medium,7,Occasional,2 Cups,7,Moderate
+28,75,188,Running,Hypertension,152,High,4,Regular,>2 Cups,4,High
+27,65,186,Running,Hypertension,158,High,4,Occasional,2 Cups,6,High
+22,86,185,Running,Cardiac Risk,180,High,5,Regular,2 Cups,8,High
+19,72,183,Running,Cardiac Risk,151,High,5,Rarely,2 Cups,3,High
+29,50,160,Running,Hypertension,140,High,4,Regular,>2 Cups,7,High
+21,68,150,Walking,Cardiac Risk,178,High,4,Occasional,>2 Cups,6,High
+27,86,164,Running,Cardiac Risk,162,High,5,Regular,2 Cups,8,High
+22,79,160,Running,Hypertension,149,High,4,Rarely,>2 Cups,6,High
+18,69,182,Running,Cardiac Risk,141,High,5,Regular,2 Cups,5,High
+18,52,151,Resting,Hypertension,144,High,5,Rarely,None,4,High
+18,61,160,Walking,Cardiac Risk,151,High,5,Occasional,1 Cup,6,High
+20,74,186,Running,Hypertension,174,High,4,Occasional,>2 Cups,5,High
+19,66,163,Walking,Hypertension,141,High,4,Regular,1 Cup,4,High
+28,75,157,Resting,Hypertension,167,High,5,Rarely,None,9,High
+24,73,177,Walking,Cardiac Risk,146,High,5,Regular,1 Cup,4,High
+23,83,177,Resting,Cardiac Risk,153,High,5,Rarely,2 Cups,8,High
+24,72,173,Running,Cardiac Risk,179,High,5,Occasional,1 Cup,7,High
+28,57,175,Walking,Hypertension,162,High,5,Regular,>2 Cups,3,High
+19,86,155,Resting,Hypertension,178,High,4,Regular,1 Cup,9,High
+24,61,165,Resting,Cardiac Risk,154,High,5,Regular,1 Cup,5,High
+24,74,173,Resting,Hypertension,149,High,4,Regular,None,2,High
+26,79,155,Running,Hypertension,158,High,4,Regular,>2 Cups,5,High
+22,69,188,Resting,Cardiac Risk,172,High,5,Rarely,>2 Cups,9,High
+23,59,180,Resting,Cardiac Risk,163,High,4,Regular,None,2,High
+21,58,174,Resting,Cardiac Risk,149,High,5,Occasional,>2 Cups,8,High
+24,62,186,Running,Cardiac Risk,174,High,5,Rarely,>2 Cups,8,High
+22,81,165,Walking,Cardiac Risk,166,High,5,Rarely,1 Cup,7,High
+25,77,168,Running,Cardiac Risk,164,High,4,Occasional,2 Cups,4,High
+20,84,172,Running,Cardiac Risk,153,High,5,Rarely,1 Cup,2,High
+26,82,169,Walking,Hypertension,159,High,4,Occasional,None,9,High
+29,80,155,Running,Hypertension,177,High,4,Occasional,>2 Cups,8,High
+27,63,151,Running,Hypertension,170,High,4,Regular,1 Cup,8,High
+20,66,180,Resting,Cardiac Risk,177,High,4,Occasional,>2 Cups,9,High
+24,61,167,Walking,Cardiac Risk,156,High,4,Regular,>2 Cups,8,High
+19,84,160,Resting,Hypertension,160,High,4,Regular,1 Cup,3,High
+19,80,164,Running,Hypertension,152,High,5,Rarely,>2 Cups,6,High
+20,88,152,Running,Hypertension,157,High,5,Occasional,2 Cups,3,High
+25,63,155,Running,Cardiac Risk,146,High,5,Occasional,None,8,High
+28,74,161,Running,Cardiac Risk,151,High,4,Regular,>2 Cups,7,High
+24,69,159,Running,Hypertension,164,High,5,Occasional,1 Cup,3,High
+23,61,157,Resting,Hypertension,162,High,5,Occasional,1 Cup,7,High
+20,58,170,Resting,Cardiac Risk,156,High,5,Occasional,1 Cup,2,High
+22,54,189,Walking,Cardiac Risk,142,High,5,Rarely,None,7,High
+28,53,180,Resting,Hypertension,143,High,5,Regular,2 Cups,7,High
+26,76,150,Running,Cardiac Risk,153,High,4,Regular,2 Cups,4,High
+27,69,181,Resting,Hypertension,165,High,4,Rarely,1 Cup,9,High
+24,89,182,Resting,Cardiac Risk,173,High,5,Rarely,>2 Cups,4,High
+26,83,174,Running,Cardiac Risk,166,High,5,Rarely,1 Cup,5,High
+23,72,173,Running,Cardiac Risk,153,High,5,Regular,None,6,High
+27,72,168,Running,Cardiac Risk,179,High,4,Rarely,>2 Cups,7,High
+20,72,166,Walking,Hypertension,149,High,4,Rarely,2 Cups,2,High
+25,59,156,Running,Hypertension,151,High,5,Rarely,None,7,High
+26,59,170,Resting,Hypertension,169,High,4,Rarely,2 Cups,4,High
+21,79,178,Resting,Cardiac Risk,141,High,5,Rarely,>2 Cups,7,High
+24,82,174,Running,Hypertension,164,High,4,Regular,>2 Cups,6,High
+24,67,150,Running,Cardiac Risk,173,High,4,Rarely,None,4,High
+20,50,162,Walking,Hypertension,148,High,5,Occasional,None,6,High
+20,80,151,Resting,Hypertension,174,High,4,Occasional,>2 Cups,4,High
+19,77,185,Resting,Cardiac Risk,162,High,5,Rarely,1 Cup,7,High
+22,73,150,Running,Hypertension,148,High,5,Occasional,>2 Cups,8,High
+19,77,154,Running,Hypertension,157,High,4,Occasional,None,6,High
+24,58,184,Resting,Cardiac Risk,142,High,5,Occasional,>2 Cups,9,High
+21,53,154,Running,Hypertension,143,High,5,Occasional,None,9,High
+20,60,160,Running,Cardiac Risk,169,High,4,Rarely,None,6,High
+20,76,179,Walking,Hypertension,167,High,5,Rarely,None,5,High
+28,88,165,Resting,Cardiac Risk,151,High,5,Regular,None,2,High
+29,55,179,Walking,Hypertension,173,High,4,Regular,>2 Cups,7,High
+27,87,165,Running,Cardiac Risk,150,High,5,Regular,1 Cup,4,High
+22,81,154,Running,Cardiac Risk,172,High,5,Rarely,>2 Cups,4,High
+29,76,163,Running,Hypertension,168,High,5,Regular,>2 Cups,5,High
+23,74,163,Walking,Hypertension,143,High,4,Rarely,2 Cups,3,High
+19,60,183,Walking,Hypertension,158,High,5,Rarely,1 Cup,8,High
+27,77,177,Walking,Hypertension,175,High,4,Rarely,>2 Cups,9,High
+23,62,178,Resting,Cardiac Risk,168,High,4,Rarely,1 Cup,7,High
+23,89,168,Running,Hypertension,145,High,5,Regular,>2 Cups,5,High
+21,58,155,Walking,Hypertension,154,High,5,Occasional,2 Cups,2,High
+19,59,159,Resting,Cardiac Risk,178,High,5,Rarely,1 Cup,7,High
+27,55,184,Walking,Hypertension,164,High,5,Regular,2 Cups,3,High
+20,52,172,Walking,Cardiac Risk,157,High,4,Occasional,1 Cup,2,High
+18,66,150,Resting,Hypertension,141,High,4,Occasional,1 Cup,2,High
+28,85,153,Resting,Cardiac Risk,171,High,4,Rarely,None,7,High
+19,87,173,Running,Hypertension,169,High,5,Occasional,None,2,High
+25,65,176,Resting,Cardiac Risk,174,High,4,Regular,None,7,High
+23,57,189,Resting,Cardiac Risk,151,High,4,Regular,2 Cups,2,High
+29,82,175,Resting,Hypertension,167,High,5,Occasional,>2 Cups,4,High
+27,53,170,Resting,Hypertension,174,High,4,Rarely,2 Cups,8,High
+28,83,185,Resting,Hypertension,177,High,4,Occasional,1 Cup,9,High
+27,51,164,Walking,Hypertension,177,High,4,Occasional,2 Cups,3,High
+27,64,184,Running,Hypertension,150,High,5,Occasional,2 Cups,3,High
+27,50,157,Walking,Hypertension,175,High,4,Occasional,None,5,High
+20,89,162,Resting,Cardiac Risk,175,High,4,Occasional,2 Cups,9,High
+24,67,184,Resting,Cardiac Risk,153,High,5,Rarely,>2 Cups,5,High
+19,81,188,Resting,Cardiac Risk,171,High,5,Regular,1 Cup,3,High
+19,83,187,Walking,Cardiac Risk,178,High,5,Occasional,1 Cup,2,High
+29,53,157,Running,Hypertension,170,High,5,Regular,None,5,High
+19,87,189,Running,Cardiac Risk,151,High,4,Rarely,None,9,High
+21,88,187,Resting,Cardiac Risk,177,High,4,Rarely,2 Cups,3,High
+27,55,174,Resting,Cardiac Risk,159,High,4,Regular,>2 Cups,3,High
+19,51,155,Resting,Cardiac Risk,170,High,4,Occasional,1 Cup,5,High
+27,82,188,Walking,Hypertension,143,High,5,Rarely,>2 Cups,2,High
+28,68,166,Running,Cardiac Risk,157,High,4,Rarely,None,3,High
+22,71,185,Running,Cardiac Risk,141,High,5,Rarely,1 Cup,2,High
+27,76,180,Resting,Hypertension,167,High,4,Regular,2 Cups,7,High
+25,77,176,Resting,Cardiac Risk,164,High,5,Rarely,>2 Cups,8,High
+27,86,176,Walking,Hypertension,147,High,4,Rarely,2 Cups,5,High
+23,68,160,Resting,Hypertension,174,High,5,Occasional,None,9,High
+18,71,188,Walking,Hypertension,174,High,5,Occasional,>2 Cups,6,High
+21,66,157,Resting,Cardiac Risk,153,High,4,Rarely,1 Cup,5,High
+18,54,184,Resting,Cardiac Risk,153,High,4,Regular,1 Cup,4,High
+28,62,151,Walking,Cardiac Risk,178,High,4,Rarely,2 Cups,4,High
+21,64,174,Walking,Cardiac Risk,161,High,4,Rarely,None,8,High
+27,82,174,Resting,Hypertension,166,High,5,Rarely,2 Cups,3,High
+19,65,155,Walking,Hypertension,151,High,5,Regular,1 Cup,8,High
+24,78,154,Walking,Cardiac Risk,156,High,4,Occasional,None,6,High
+18,62,188,Resting,Hypertension,173,High,4,Occasional,2 Cups,8,High
+28,66,156,Walking,Cardiac Risk,160,High,5,Occasional,2 Cups,4,High
+20,51,189,Running,Hypertension,164,High,4,Rarely,None,2,High
+25,68,156,Walking,Cardiac Risk,173,High,4,Occasional,1 Cup,5,High
+19,72,158,Walking,Cardiac Risk,156,High,4,Occasional,1 Cup,3,High
+21,53,165,Walking,Cardiac Risk,179,High,4,Regular,>2 Cups,4,High
+26,64,151,Resting,Cardiac Risk,148,High,5,Occasional,>2 Cups,3,High
+29,69,152,Running,Hypertension,153,High,5,Regular,>2 Cups,8,High
+26,67,179,Running,Cardiac Risk,170,High,4,Rarely,2 Cups,8,High
+22,52,177,Running,Hypertension,175,High,5,Regular,1 Cup,3,High
+28,65,166,Running,Cardiac Risk,148,High,4,Occasional,1 Cup,6,High
+20,53,184,Resting,Cardiac Risk,173,High,4,Rarely,None,9,High
+22,57,176,Running,Hypertension,162,High,4,Occasional,>2 Cups,6,High
+23,68,153,Running,Hypertension,165,High,4,Rarely,2 Cups,5,High
+18,86,172,Resting,Cardiac Risk,168,High,5,Occasional,>2 Cups,2,High
+20,53,163,Walking,Hypertension,169,High,5,Occasional,None,4,High
+26,64,158,Running,Hypertension,174,High,4,Occasional,None,8,High
+24,80,170,Resting,Hypertension,162,High,4,Regular,None,3,High
+26,78,181,Walking,Cardiac Risk,144,High,5,Rarely,2 Cups,8,High
+18,86,185,Resting,Cardiac Risk,145,High,5,Rarely,>2 Cups,6,High
+19,56,153,Walking,Cardiac Risk,141,High,5,Occasional,2 Cups,2,High
+29,67,158,Walking,Hypertension,173,High,5,Regular,2 Cups,3,High
+23,64,167,Resting,Hypertension,154,High,5,Rarely,>2 Cups,2,High
+22,62,187,Running,Hypertension,151,High,4,Occasional,2 Cups,6,High
+25,64,158,Resting,Hypertension,163,High,5,Occasional,1 Cup,7,High
+28,73,184,Running,Hypertension,161,High,4,Rarely,1 Cup,7,High
+18,82,181,Walking,Cardiac Risk,147,High,4,Regular,2 Cups,7,High
+18,61,177,Resting,Hypertension,153,High,5,Rarely,None,4,High
+20,58,160,Resting,Cardiac Risk,171,High,5,Regular,1 Cup,9,High
+28,79,182,Resting,Cardiac Risk,160,High,5,Regular,>2 Cups,9,High
+24,79,150,Walking,Hypertension,141,High,4,Regular,>2 Cups,5,High
+26,80,166,Running,Cardiac Risk,160,High,4,Rarely,>2 Cups,6,High
+27,81,154,Running,Cardiac Risk,176,High,5,Regular,2 Cups,9,High
+27,86,156,Resting,Cardiac Risk,146,High,4,Occasional,1 Cup,6,High
+26,76,161,Walking,Hypertension,145,High,4,Regular,1 Cup,7,High
+28,60,162,Walking,Hypertension,156,High,5,Occasional,None,2,High
+18,58,183,Walking,Hypertension,171,High,4,Occasional,1 Cup,9,High
+29,62,184,Running,Cardiac Risk,146,High,4,Occasional,None,2,High
+26,63,174,Running,Cardiac Risk,143,High,4,Regular,>2 Cups,5,High
+27,59,181,Resting,Hypertension,167,High,4,Rarely,2 Cups,4,High
+21,89,176,Resting,Cardiac Risk,176,High,5,Occasional,2 Cups,5,High
+25,50,161,Resting,Hypertension,150,High,4,Occasional,>2 Cups,9,High
+21,78,168,Running,Hypertension,172,High,5,Occasional,>2 Cups,2,High
+22,69,178,Walking,Hypertension,159,High,5,Rarely,>2 Cups,7,High
+23,81,155,Resting,Cardiac Risk,156,High,4,Rarely,1 Cup,5,High
+21,61,168,Running,Hypertension,162,High,4,Occasional,2 Cups,7,High
+25,71,165,Resting,Cardiac Risk,153,High,5,Rarely,>2 Cups,2,High
+22,51,172,Running,Hypertension,147,High,5,Regular,None,6,High
+25,59,176,Running,Cardiac Risk,178,High,4,Rarely,1 Cup,8,High
+19,72,162,Running,Cardiac Risk,159,High,5,Regular,2 Cups,3,High
+25,65,160,Running,Hypertension,143,High,4,Rarely,>2 Cups,7,High
+18,51,181,Running,Hypertension,150,High,5,Occasional,2 Cups,2,High
+19,62,162,Running,Hypertension,155,High,5,Regular,>2 Cups,3,High
+23,88,179,Walking,Hypertension,146,High,5,Occasional,>2 Cups,7,High
+29,68,186,Running,Cardiac Risk,154,High,5,Occasional,1 Cup,4,High
+29,57,150,Walking,Cardiac Risk,153,High,4,Rarely,None,9,High
+23,74,158,Walking,Cardiac Risk,178,High,5,Regular,1 Cup,7,High
+22,81,185,Walking,Hypertension,145,High,5,Occasional,2 Cups,4,High
+19,75,159,Resting,Cardiac Risk,150,High,5,Occasional,>2 Cups,6,High
+28,72,154,Walking,Cardiac Risk,176,High,5,Rarely,>2 Cups,4,High
+26,72,169,Running,Cardiac Risk,142,High,4,Rarely,>2 Cups,8,High
+19,87,159,Walking,Hypertension,176,High,5,Rarely,None,8,High
+29,75,158,Walking,Cardiac Risk,174,High,5,Occasional,None,4,High
+19,53,185,Running,Hypertension,143,High,5,Rarely,None,4,High
+18,76,179,Walking,Hypertension,153,High,4,Rarely,1 Cup,7,High
+24,68,161,Resting,Hypertension,145,High,5,Rarely,2 Cups,9,High
+18,71,157,Walking,Cardiac Risk,164,High,5,Occasional,None,3,High
+25,66,165,Resting,Hypertension,144,High,5,Occasional,None,8,High
+24,69,162,Running,Hypertension,179,High,4,Occasional,2 Cups,2,High
+22,52,164,Resting,Hypertension,157,High,5,Regular,>2 Cups,8,High
+27,64,160,Running,Hypertension,156,High,5,Occasional,2 Cups,5,High
+24,52,182,Resting,Cardiac Risk,141,High,5,Occasional,2 Cups,8,High
+25,65,152,Running,Cardiac Risk,159,High,5,Regular,2 Cups,2,High
+26,57,189,Walking,Hypertension,174,High,4,Regular,None,9,High
+22,85,179,Walking,Cardiac Risk,179,High,5,Regular,2 Cups,8,High
+27,84,181,Walking,Cardiac Risk,145,High,5,Rarely,None,6,High
+20,86,156,Running,Cardiac Risk,174,High,5,Occasional,1 Cup,8,High
+29,58,180,Resting,Cardiac Risk,179,High,5,Rarely,1 Cup,7,High
+22,59,150,Running,Hypertension,177,High,5,Occasional,>2 Cups,8,High
+18,76,182,Running,Cardiac Risk,146,High,5,Regular,None,7,High
+20,60,179,Running,Hypertension,157,High,5,Rarely,2 Cups,8,High
+21,73,164,Running,Hypertension,151,High,5,Occasional,>2 Cups,7,High
+19,88,189,Resting,Hypertension,153,High,5,Occasional,None,8,High
+25,51,163,Resting,Cardiac Risk,179,High,4,Rarely,None,9,High
+21,66,178,Resting,Hypertension,143,High,4,Regular,2 Cups,5,High
+24,52,174,Running,Hypertension,156,High,4,Occasional,1 Cup,3,High
+28,50,176,Resting,Hypertension,150,High,4,Regular,1 Cup,2,High
+20,59,152,Walking,Cardiac Risk,167,High,5,Occasional,2 Cups,9,High
+25,60,155,Resting,Cardiac Risk,152,High,5,Rarely,2 Cups,9,High
+22,69,182,Walking,Cardiac Risk,180,High,4,Occasional,>2 Cups,6,High
+20,65,157,Running,Hypertension,163,High,5,Occasional,1 Cup,8,High
+26,70,173,Resting,Hypertension,141,High,4,Rarely,1 Cup,4,High
+24,53,179,Running,Hypertension,177,High,5,Rarely,2 Cups,5,High
+28,77,157,Resting,Cardiac Risk,153,High,5,Rarely,None,5,High
+25,74,161,Walking,Cardiac Risk,156,High,5,Occasional,2 Cups,4,High
+29,76,168,Resting,Cardiac Risk,158,High,5,Rarely,>2 Cups,6,High
+27,70,181,Running,Cardiac Risk,158,High,4,Rarely,1 Cup,6,High
+22,52,177,Walking,Hypertension,158,High,5,Regular,>2 Cups,8,High
+27,59,164,Walking,Cardiac Risk,169,High,5,Occasional,1 Cup,7,High
+27,78,185,Running,Cardiac Risk,157,High,4,Rarely,None,3,High
+24,55,158,Walking,Cardiac Risk,155,High,4,Occasional,>2 Cups,4,High
+18,58,177,Resting,Cardiac Risk,153,High,4,Occasional,2 Cups,2,High
+18,51,154,Resting,Hypertension,169,High,4,Occasional,1 Cup,4,High
+21,54,161,Running,Cardiac Risk,165,High,5,Regular,1 Cup,6,High
+18,67,169,Walking,Cardiac Risk,143,High,5,Regular,2 Cups,9,High
+19,52,165,Walking,Hypertension,165,High,5,Rarely,>2 Cups,3,High
+27,53,158,Resting,Hypertension,163,High,5,Rarely,>2 Cups,6,High
+22,55,183,Running,Cardiac Risk,178,High,5,Occasional,2 Cups,5,High
+18,85,178,Walking,Hypertension,143,High,4,Occasional,None,5,High
+22,58,157,Resting,Cardiac Risk,145,High,4,Regular,1 Cup,7,High
+21,68,170,Resting,Cardiac Risk,143,High,4,Occasional,None,7,High
+25,89,164,Running,Hypertension,153,High,5,Regular,>2 Cups,3,High
+21,87,179,Resting,Cardiac Risk,177,High,5,Occasional,>2 Cups,2,High
+18,69,161,Running,Hypertension,150,High,5,Rarely,2 Cups,8,High
+25,59,183,Running,Hypertension,180,High,5,Rarely,None,9,High
+22,85,152,Running,Cardiac Risk,177,High,5,Occasional,2 Cups,6,High
+28,87,171,Running,Hypertension,166,High,5,Regular,1 Cup,5,High
+19,77,154,Resting,Cardiac Risk,175,High,5,Rarely,1 Cup,5,High
+29,61,152,Walking,Hypertension,173,High,4,Regular,2 Cups,4,High
+26,54,155,Resting,Cardiac Risk,167,High,4,Rarely,2 Cups,6,High
+23,82,155,Walking,Cardiac Risk,140,High,4,Occasional,2 Cups,5,High
+28,72,174,Resting,Cardiac Risk,177,High,4,Rarely,2 Cups,4,High
+26,66,179,Running,Hypertension,180,High,4,Regular,None,6,High
+25,77,167,Running,Hypertension,178,High,4,Regular,2 Cups,6,High
+21,51,157,Walking,Hypertension,171,High,4,Regular,>2 Cups,3,High
+19,54,182,Running,Cardiac Risk,163,High,5,Regular,1 Cup,5,High
+20,72,173,Running,Cardiac Risk,169,High,5,Rarely,None,5,High
+26,76,175,Resting,Hypertension,159,High,5,Occasional,>2 Cups,9,High
+28,56,167,Running,Cardiac Risk,149,High,4,Regular,>2 Cups,9,High
+29,53,176,Walking,Hypertension,152,High,5,Occasional,1 Cup,3,High
+21,78,187,Running,Hypertension,167,High,4,Occasional,>2 Cups,8,High
+20,71,166,Resting,Cardiac Risk,163,High,5,Occasional,1 Cup,7,High
+22,66,189,Running,Cardiac Risk,170,High,5,Regular,2 Cups,4,High
+18,85,180,Walking,Hypertension,166,High,4,Occasional,2 Cups,5,High
+18,55,155,Walking,Cardiac Risk,176,High,5,Rarely,2 Cups,2,High
+29,70,172,Running,Hypertension,178,High,4,Occasional,2 Cups,3,High
+19,65,188,Walking,Hypertension,150,High,5,Rarely,1 Cup,8,High
+28,89,172,Walking,Hypertension,169,High,4,Rarely,None,3,High
+27,60,175,Resting,Cardiac Risk,151,High,4,Regular,>2 Cups,5,High
+29,54,163,Running,Cardiac Risk,157,High,5,Regular,2 Cups,9,High
+22,51,179,Running,Cardiac Risk,156,High,4,Regular,>2 Cups,9,High
+24,77,183,Walking,Hypertension,156,High,5,Occasional,None,3,High
+26,85,180,Running,Hypertension,145,High,5,Rarely,2 Cups,7,High
+27,50,188,Running,Cardiac Risk,176,High,4,Occasional,2 Cups,2,High
+20,68,165,Resting,Hypertension,160,High,4,Occasional,1 Cup,5,High
+23,64,158,Walking,Hypertension,173,High,4,Regular,None,2,High
+24,83,171,Resting,Cardiac Risk,163,High,4,Rarely,1 Cup,4,High
+21,81,177,Resting,Hypertension,149,High,4,Rarely,>2 Cups,2,High
+19,66,166,Running,Hypertension,174,High,4,Rarely,>2 Cups,3,High
+18,66,169,Running,Hypertension,148,High,4,Occasional,>2 Cups,7,High
+20,58,168,Walking,Hypertension,160,High,4,Rarely,2 Cups,9,High
+20,52,181,Resting,Hypertension,167,High,4,Regular,>2 Cups,7,High
+19,73,163,Running,Hypertension,179,High,4,Occasional,>2 Cups,9,High
+21,67,153,Walking,Cardiac Risk,144,High,4,Occasional,None,6,High
+28,82,159,Walking,Hypertension,150,High,5,Regular,2 Cups,6,High
+22,65,153,Walking,Cardiac Risk,165,High,4,Rarely,1 Cup,8,High
+22,55,162,Running,Cardiac Risk,157,High,5,Rarely,1 Cup,4,High
+19,54,189,Running,Cardiac Risk,157,High,5,Rarely,>2 Cups,2,High
+21,54,168,Running,Hypertension,162,High,5,Regular,1 Cup,3,High
+23,80,176,Walking,Hypertension,179,High,5,Rarely,2 Cups,7,High
+18,73,184,Running,Cardiac Risk,178,High,5,Regular,2 Cups,3,High
+27,84,150,Resting,Cardiac Risk,145,High,5,Occasional,1 Cup,9,High
+23,69,153,Walking,Hypertension,168,High,5,Rarely,>2 Cups,5,High
+22,56,179,Walking,Cardiac Risk,154,High,5,Regular,>2 Cups,4,High
+19,62,187,Running,Cardiac Risk,140,High,5,Occasional,None,4,High
+21,58,161,Resting,Hypertension,146,High,5,Regular,2 Cups,3,High
+19,58,178,Running,Hypertension,151,High,5,Rarely,None,5,High
+21,67,159,Running,Cardiac Risk,148,High,4,Occasional,None,6,High
+27,73,151,Walking,Cardiac Risk,162,High,4,Occasional,2 Cups,6,High
+28,51,154,Running,Hypertension,140,High,4,Occasional,1 Cup,7,High
+20,74,183,Resting,Cardiac Risk,144,High,4,Occasional,2 Cups,5,High
+20,82,162,Running,Cardiac Risk,174,High,4,Rarely,None,9,High
+23,58,165,Resting,Cardiac Risk,144,High,5,Regular,None,8,High
+28,73,176,Resting,Cardiac Risk,143,High,4,Rarely,1 Cup,5,High
+28,75,151,Running,Cardiac Risk,165,High,5,Occasional,>2 Cups,6,High
+29,58,156,Running,Cardiac Risk,141,High,5,Regular,1 Cup,8,High
+29,53,174,Running,Cardiac Risk,168,High,5,Rarely,1 Cup,3,High
+20,75,153,Walking,Hypertension,160,High,5,Rarely,>2 Cups,5,High
+18,87,179,Walking,Hypertension,153,High,5,Rarely,1 Cup,8,High
+24,65,158,Running,Hypertension,169,High,5,Regular,None,6,High
+25,60,175,Walking,Cardiac Risk,165,High,5,Regular,None,2,High
+28,50,168,Resting,Cardiac Risk,141,High,4,Rarely,2 Cups,8,High
+21,79,154,Resting,Hypertension,153,High,4,Regular,1 Cup,6,High
+20,56,172,Running,Hypertension,151,High,4,Occasional,1 Cup,4,High
+25,79,177,Resting,Hypertension,159,High,4,Rarely,2 Cups,8,High
+22,86,186,Walking,Hypertension,156,High,5,Regular,None,5,High
+23,54,166,Walking,Cardiac Risk,149,High,4,Occasional,2 Cups,3,High
+23,54,176,Running,Hypertension,143,High,4,Occasional,>2 Cups,7,High
+29,68,178,Resting,Cardiac Risk,177,High,5,Regular,>2 Cups,2,High
+25,79,184,Running,Hypertension,148,High,5,Regular,None,2,High
+26,79,185,Running,Hypertension,145,High,5,Regular,1 Cup,8,High
+29,59,189,Resting,Cardiac Risk,176,High,4,Rarely,>2 Cups,3,High
+22,78,156,Running,Cardiac Risk,142,High,5,Rarely,1 Cup,8,High
+26,85,189,Walking,Cardiac Risk,147,High,5,Rarely,>2 Cups,6,High
+28,67,158,Resting,Cardiac Risk,164,High,4,Occasional,1 Cup,3,High
+18,64,179,Walking,Hypertension,144,High,4,Regular,>2 Cups,2,High
+29,69,162,Walking,Hypertension,153,High,5,Rarely,None,3,High
+20,78,180,Walking,Hypertension,166,High,4,Regular,>2 Cups,8,High
+18,84,161,Running,Hypertension,160,High,4,Rarely,1 Cup,7,High
+19,73,160,Resting,Cardiac Risk,170,High,4,Rarely,1 Cup,6,High
+23,78,172,Resting,Cardiac Risk,146,High,4,Occasional,>2 Cups,5,High
+21,75,173,Resting,Cardiac Risk,154,High,4,Regular,>2 Cups,5,High
+18,68,158,Walking,Hypertension,160,High,4,Regular,>2 Cups,8,High
+25,58,182,Resting,Cardiac Risk,144,High,5,Regular,2 Cups,6,High
+27,65,169,Resting,Hypertension,143,High,5,Regular,None,2,High
+28,55,183,Walking,Cardiac Risk,148,High,4,Regular,None,3,High
+26,51,150,Walking,Hypertension,161,High,4,Occasional,>2 Cups,5,High
+27,87,150,Walking,Hypertension,166,High,5,Rarely,None,8,High
+28,80,173,Walking,Hypertension,171,High,5,Occasional,None,4,High
+25,80,174,Resting,Hypertension,149,High,4,Regular,2 Cups,4,High
+19,71,188,Resting,Hypertension,145,High,4,Rarely,>2 Cups,5,High
+25,70,176,Walking,Hypertension,174,High,4,Rarely,1 Cup,4,High
+28,88,187,Walking,Hypertension,142,High,4,Rarely,>2 Cups,8,High
+22,61,186,Resting,Hypertension,155,High,4,Regular,None,6,High
+22,57,163,Resting,Cardiac Risk,163,High,4,Occasional,1 Cup,9,High
+27,77,185,Running,Hypertension,167,High,4,Occasional,>2 Cups,8,High
+27,58,164,Resting,Hypertension,146,High,4,Occasional,None,8,High
+26,53,188,Walking,Hypertension,148,High,4,Rarely,1 Cup,3,High
+28,65,161,Running,Cardiac Risk,167,High,5,Occasional,None,2,High
+24,53,177,Running,Hypertension,163,High,4,Regular,1 Cup,4,High
+24,86,177,Running,Hypertension,161,High,4,Rarely,None,5,High
+26,61,162,Resting,Hypertension,146,High,4,Regular,None,3,High
+27,75,184,Resting,Cardiac Risk,159,High,4,Rarely,1 Cup,5,High
+23,85,172,Running,Hypertension,171,High,4,Occasional,1 Cup,7,High
+25,82,173,Walking,Cardiac Risk,167,High,4,Rarely,>2 Cups,8,High
+22,52,158,Resting,Hypertension,176,High,5,Rarely,2 Cups,2,High
+18,54,181,Resting,Cardiac Risk,147,High,5,Rarely,2 Cups,3,High
+21,51,169,Running,Cardiac Risk,162,High,4,Rarely,None,8,High
+23,72,185,Resting,Hypertension,172,High,4,Rarely,2 Cups,2,High
+27,86,156,Walking,Cardiac Risk,153,High,4,Occasional,None,9,High
+19,78,184,Resting,Hypertension,164,High,5,Regular,1 Cup,2,High
+23,83,162,Walking,Cardiac Risk,173,High,4,Regular,2 Cups,7,High
+24,61,186,Resting,Hypertension,143,High,5,Occasional,1 Cup,2,High
+22,73,175,Running,Hypertension,153,High,5,Rarely,2 Cups,8,High
+27,67,175,Resting,Hypertension,158,High,4,Rarely,None,7,High
+28,75,158,Running,Cardiac Risk,156,High,4,Occasional,1 Cup,8,High
+20,56,181,Resting,Cardiac Risk,155,High,5,Rarely,None,6,High
+28,78,156,Running,Cardiac Risk,177,High,4,Occasional,>2 Cups,4,High
+21,74,150,Resting,Cardiac Risk,159,High,5,Occasional,2 Cups,3,High
+26,78,189,Walking,Cardiac Risk,171,High,4,Rarely,None,9,High
+24,73,155,Running,Hypertension,168,High,5,Rarely,None,9,High
+22,71,174,Walking,Cardiac Risk,171,High,5,Rarely,1 Cup,9,High
+27,65,156,Walking,Hypertension,152,High,5,Occasional,>2 Cups,8,High
+23,58,175,Resting,Cardiac Risk,176,High,4,Rarely,None,3,High
+18,52,182,Resting,Hypertension,168,High,4,Rarely,None,8,High
+28,88,150,Running,Cardiac Risk,145,High,5,Occasional,>2 Cups,4,High
+27,69,186,Running,Hypertension,154,High,5,Regular,1 Cup,3,High
+28,64,166,Resting,Hypertension,156,High,5,Occasional,>2 Cups,9,High
+22,78,163,Walking,Hypertension,175,High,4,Rarely,1 Cup,2,High
+29,56,168,Running,Hypertension,158,High,4,Rarely,>2 Cups,3,High
+22,67,153,Running,Hypertension,152,High,4,Regular,None,3,High
+29,87,150,Resting,Hypertension,164,High,5,Rarely,2 Cups,8,High
+24,76,154,Resting,Cardiac Risk,161,High,5,Occasional,None,3,High
+22,53,175,Running,Hypertension,170,High,5,Regular,2 Cups,6,High
+23,75,170,Walking,Cardiac Risk,171,High,4,Occasional,1 Cup,9,High
+27,62,172,Running,Cardiac Risk,172,High,5,Rarely,2 Cups,5,High
+29,72,159,Walking,Hypertension,174,High,4,Rarely,>2 Cups,9,High
+28,74,164,Running,Hypertension,165,High,4,Regular,None,7,High
+26,79,177,Walking,Hypertension,162,High,4,Regular,None,5,High
+18,77,158,Running,Cardiac Risk,155,High,4,Regular,>2 Cups,4,High
+23,60,168,Walking,Cardiac Risk,151,High,5,Regular,None,4,High
+22,76,162,Walking,Cardiac Risk,145,High,5,Occasional,>2 Cups,4,High
+24,58,163,Walking,Cardiac Risk,176,High,4,Occasional,>2 Cups,7,High
+29,72,161,Walking,Hypertension,150,High,5,Occasional,1 Cup,7,High
+20,67,182,Running,Hypertension,168,High,4,Rarely,1 Cup,9,High
+27,81,178,Walking,Cardiac Risk,149,High,4,Rarely,2 Cups,8,High
+29,67,163,Walking,Hypertension,173,High,5,Rarely,None,9,High
+21,79,150,Walking,Cardiac Risk,169,High,4,Regular,2 Cups,5,High
+20,57,163,Running,Hypertension,145,High,5,Occasional,1 Cup,4,High
+20,65,155,Running,Hypertension,159,High,4,Occasional,1 Cup,9,High
+19,65,163,Resting,Hypertension,171,High,5,Occasional,None,4,High
+19,64,177,Resting,Hypertension,141,High,5,Rarely,1 Cup,3,High
+29,62,171,Walking,Hypertension,155,High,4,Occasional,2 Cups,9,High
+26,84,158,Resting,Hypertension,141,High,4,Rarely,2 Cups,6,High
+20,59,176,Walking,Hypertension,154,High,4,Rarely,>2 Cups,4,High
+22,57,168,Resting,Hypertension,177,High,4,Rarely,2 Cups,7,High
+24,88,186,Resting,Hypertension,165,High,4,Rarely,1 Cup,2,High
+29,54,150,Running,Cardiac Risk,171,High,4,Rarely,2 Cups,4,High
+22,76,166,Walking,Hypertension,180,High,5,Regular,1 Cup,7,High
+26,88,158,Resting,Cardiac Risk,173,High,4,Rarely,2 Cups,7,High
+22,73,153,Running,Cardiac Risk,164,High,5,Occasional,None,9,High
+27,54,152,Resting,Hypertension,164,High,4,Rarely,1 Cup,7,High
+23,61,186,Walking,Cardiac Risk,144,High,4,Rarely,None,3,High
+26,74,151,Resting,Hypertension,174,High,4,Regular,1 Cup,5,High
+19,78,150,Walking,Hypertension,158,High,5,Rarely,1 Cup,2,High
+28,67,180,Resting,Hypertension,157,High,5,Occasional,None,6,High
+21,69,166,Resting,Cardiac Risk,144,High,5,Regular,>2 Cups,4,High
+21,72,152,Running,Cardiac Risk,149,High,4,Occasional,1 Cup,7,High
+28,85,183,Resting,Hypertension,162,High,5,Occasional,1 Cup,2,High
+20,52,158,Walking,Cardiac Risk,177,High,5,Rarely,1 Cup,5,High
+19,79,166,Resting,Hypertension,167,High,5,Rarely,2 Cups,5,High
+20,83,183,Running,Cardiac Risk,156,High,4,Rarely,None,3,High
+27,59,176,Walking,Hypertension,148,High,4,Occasional,>2 Cups,4,High
+25,62,174,Running,Cardiac Risk,155,High,5,Regular,1 Cup,2,High
+26,68,160,Walking,Hypertension,155,High,4,Regular,1 Cup,9,High
+29,69,184,Running,Cardiac Risk,161,High,4,Occasional,2 Cups,4,High
+21,55,164,Walking,Hypertension,175,High,4,Regular,>2 Cups,3,High
+22,58,168,Running,Cardiac Risk,165,High,5,Rarely,>2 Cups,6,High
+25,67,161,Running,Cardiac Risk,167,High,5,Regular,1 Cup,3,High
+24,51,176,Walking,Hypertension,154,High,5,Regular,None,5,High
+27,87,187,Walking,Cardiac Risk,150,High,5,Regular,1 Cup,4,High
+28,53,181,Walking,Cardiac Risk,169,High,5,Occasional,>2 Cups,3,High
+21,67,172,Walking,Hypertension,166,High,5,Occasional,>2 Cups,6,High
+18,82,180,Walking,Cardiac Risk,153,High,4,Occasional,2 Cups,2,High
+18,79,165,Running,Cardiac Risk,158,High,4,Occasional,1 Cup,4,High
+18,82,178,Walking,Cardiac Risk,160,High,4,Occasional,>2 Cups,2,High
+19,73,188,Walking,Cardiac Risk,164,High,4,Rarely,None,6,High
+24,50,163,Running,Cardiac Risk,165,High,4,Occasional,>2 Cups,4,High
+29,70,164,Walking,Cardiac Risk,161,High,4,Occasional,>2 Cups,5,High
+18,73,169,Walking,Hypertension,178,High,4,Regular,>2 Cups,3,High
+21,51,159,Running,Hypertension,165,High,5,Rarely,2 Cups,9,High
+28,67,159,Walking,Cardiac Risk,143,High,5,Regular,None,6,High
+28,60,188,Running,Cardiac Risk,146,High,5,Rarely,1 Cup,8,High
+21,79,173,Running,Hypertension,179,High,5,Occasional,2 Cups,3,High
+26,61,155,Resting,Hypertension,154,High,5,Regular,2 Cups,7,High
+28,87,154,Resting,Hypertension,157,High,4,Regular,>2 Cups,5,High
+26,85,167,Resting,Hypertension,173,High,4,Occasional,1 Cup,5,High
+29,51,186,Walking,Hypertension,169,High,4,Occasional,2 Cups,3,High
+23,52,178,Running,Hypertension,147,High,5,Regular,>2 Cups,2,High
+22,69,154,Walking,Cardiac Risk,142,High,5,Occasional,1 Cup,6,High
+27,83,186,Resting,Hypertension,174,High,4,Rarely,>2 Cups,6,High
+28,66,179,Running,Cardiac Risk,172,High,4,Occasional,1 Cup,9,High
+18,66,156,Running,Cardiac Risk,180,High,4,Regular,None,2,High
+23,71,170,Resting,Hypertension,153,High,4,Regular,2 Cups,7,High
+18,51,179,Running,Cardiac Risk,166,High,4,Regular,None,5,High
+29,67,176,Running,Cardiac Risk,178,High,5,Rarely,2 Cups,9,High
+28,88,156,Running,Hypertension,168,High,5,Rarely,None,9,High
+20,86,166,Walking,Cardiac Risk,164,High,4,Rarely,None,4,High
+24,61,169,Walking,Cardiac Risk,141,High,4,Rarely,2 Cups,2,High
+20,54,158,Resting,Cardiac Risk,145,High,5,Occasional,>2 Cups,7,High
+23,87,166,Running,Cardiac Risk,148,High,5,Rarely,>2 Cups,5,High
+21,77,170,Resting,Cardiac Risk,160,High,5,Regular,2 Cups,2,High
+20,67,161,Resting,Cardiac Risk,151,High,4,Regular,1 Cup,4,High
+23,87,172,Walking,Cardiac Risk,160,High,4,Rarely,2 Cups,6,High
+28,66,175,Walking,Hypertension,152,High,4,Occasional,>2 Cups,4,High
+18,59,173,Running,Cardiac Risk,144,High,4,Regular,1 Cup,4,High
+28,82,164,Resting,Hypertension,147,High,5,Regular,>2 Cups,5,High
+23,74,164,Walking,Hypertension,174,High,5,Occasional,1 Cup,7,High
+25,56,163,Running,Cardiac Risk,180,High,5,Occasional,None,2,High
+22,87,164,Running,Hypertension,156,High,4,Rarely,None,9,High
+28,83,179,Resting,Hypertension,143,High,5,Regular,>2 Cups,2,High
+26,76,187,Resting,Hypertension,180,High,5,Occasional,None,7,High
+27,75,154,Resting,Hypertension,170,High,4,Regular,1 Cup,7,High
+22,74,165,Walking,Cardiac Risk,178,High,4,Rarely,2 Cups,4,High
+21,71,170,Running,Cardiac Risk,179,High,5,Occasional,1 Cup,7,High
+21,54,170,Resting,Cardiac Risk,142,High,4,Rarely,1 Cup,5,High
+23,59,165,Walking,Cardiac Risk,168,High,5,Regular,None,9,High
+20,73,154,Resting,Hypertension,153,High,4,Regular,>2 Cups,6,High
+24,74,177,Running,Cardiac Risk,147,High,4,Rarely,1 Cup,4,High
+20,83,184,Running,Cardiac Risk,167,High,5,Regular,2 Cups,7,High
+20,52,156,Resting,Hypertension,157,High,4,Regular,>2 Cups,8,High
+20,82,168,Walking,Cardiac Risk,152,High,4,Occasional,2 Cups,8,High
+27,53,186,Running,Hypertension,143,High,4,Regular,>2 Cups,8,High
+25,83,162,Resting,Hypertension,140,High,4,Rarely,2 Cups,8,High
+20,77,166,Walking,Hypertension,141,High,5,Rarely,1 Cup,9,High
+29,74,170,Walking,Cardiac Risk,179,High,5,Regular,>2 Cups,8,High
+24,51,188,Running,Cardiac Risk,162,High,4,Regular,None,4,High
+24,83,178,Resting,Hypertension,145,High,4,Regular,None,7,High
+20,54,184,Running,Cardiac Risk,152,High,5,Regular,None,4,High
+27,88,168,Running,Hypertension,145,High,4,Regular,1 Cup,5,High
+20,71,176,Resting,Cardiac Risk,143,High,5,Occasional,>2 Cups,9,High
+25,82,181,Running,Cardiac Risk,152,High,4,Regular,None,8,High
+25,89,176,Running,Hypertension,178,High,4,Regular,>2 Cups,2,High
+23,57,177,Walking,Cardiac Risk,145,High,5,Rarely,>2 Cups,4,High
+24,79,163,Walking,Cardiac Risk,153,High,4,Occasional,None,8,High
+20,71,157,Resting,Cardiac Risk,154,High,4,Rarely,1 Cup,6,High
+18,71,188,Resting,Hypertension,154,High,4,Rarely,>2 Cups,9,High
+23,81,150,Walking,Cardiac Risk,162,High,5,Rarely,1 Cup,2,High
+23,60,158,Running,Cardiac Risk,150,High,4,Rarely,>2 Cups,2,High
+19,83,177,Walking,Hypertension,180,High,5,Regular,None,7,High
+27,62,178,Resting,Hypertension,171,High,5,Regular,>2 Cups,4,High
+22,71,165,Resting,Hypertension,173,High,5,Regular,>2 Cups,4,High
+24,58,169,Resting,Hypertension,158,High,4,Occasional,1 Cup,9,High
+19,86,169,Walking,Hypertension,176,High,5,Occasional,None,4,High
+23,87,186,Running,Cardiac Risk,156,High,5,Rarely,2 Cups,6,High
+27,75,182,Walking,Hypertension,151,High,4,Occasional,2 Cups,2,High
+20,62,168,Walking,Hypertension,176,High,4,Occasional,>2 Cups,9,High
+26,52,157,Walking,Hypertension,165,High,5,Regular,None,9,High
+24,88,185,Walking,Hypertension,159,High,4,Occasional,1 Cup,4,High
+27,72,185,Resting,Cardiac Risk,178,High,4,Occasional,1 Cup,6,High
+22,75,154,Running,Cardiac Risk,168,High,5,Occasional,1 Cup,6,High
+21,67,163,Running,Hypertension,144,High,4,Regular,None,5,High
+26,88,173,Running,Hypertension,166,High,4,Rarely,>2 Cups,2,High
+20,82,174,Running,Cardiac Risk,163,High,5,Rarely,>2 Cups,6,High
+27,64,174,Running,Cardiac Risk,164,High,5,Rarely,>2 Cups,6,High
+28,53,160,Running,Hypertension,170,High,4,Occasional,1 Cup,3,High
+21,72,161,Running,Hypertension,151,High,4,Rarely,2 Cups,8,High
+25,55,160,Running,Cardiac Risk,141,High,5,Regular,1 Cup,3,High
+18,67,177,Resting,Hypertension,173,High,5,Regular,>2 Cups,7,High
+25,54,153,Walking,Cardiac Risk,165,High,5,Regular,None,8,High
+18,58,184,Resting,Cardiac Risk,174,High,5,Occasional,>2 Cups,2,High
+19,63,189,Running,Cardiac Risk,147,High,4,Rarely,2 Cups,8,High
+19,73,188,Resting,Cardiac Risk,145,High,4,Regular,2 Cups,4,High
+29,50,172,Walking,Hypertension,149,High,4,Regular,2 Cups,9,High
+26,51,159,Resting,Cardiac Risk,166,High,4,Regular,2 Cups,8,High
+26,77,182,Walking,Hypertension,152,High,5,Rarely,>2 Cups,6,High
+26,81,158,Running,Cardiac Risk,149,High,5,Regular,2 Cups,8,High
+25,56,166,Running,Cardiac Risk,160,High,5,Occasional,None,9,High
+23,58,175,Walking,Hypertension,150,High,5,Occasional,1 Cup,4,High
+23,66,174,Running,Cardiac Risk,163,High,5,Occasional,>2 Cups,5,High
+23,57,156,Running,Hypertension,141,High,4,Rarely,None,6,High
+28,61,172,Resting,Hypertension,165,High,5,Rarely,None,3,High
+21,74,187,Resting,Hypertension,148,High,5,Regular,1 Cup,9,High
+27,80,187,Running,Hypertension,154,High,4,Regular,1 Cup,9,High
+27,55,174,Walking,Cardiac Risk,165,High,5,Rarely,None,2,High
+28,89,177,Walking,Hypertension,156,High,5,Occasional,1 Cup,7,High
+22,64,180,Walking,Cardiac Risk,153,High,4,Occasional,1 Cup,9,High
+29,57,186,Resting,Hypertension,163,High,5,Regular,>2 Cups,6,High
+26,60,183,Running,Cardiac Risk,168,High,5,Occasional,1 Cup,7,High
+20,57,161,Running,Hypertension,167,High,4,Rarely,1 Cup,4,High
+27,63,189,Running,Cardiac Risk,177,High,4,Regular,1 Cup,8,High
+24,82,153,Walking,Hypertension,159,High,4,Rarely,2 Cups,9,High
+21,72,188,Running,Hypertension,166,High,5,Rarely,1 Cup,2,High
+29,68,178,Resting,Hypertension,171,High,5,Regular,2 Cups,3,High
+20,53,175,Resting,Hypertension,160,High,5,Rarely,None,7,High
+28,62,164,Walking,Cardiac Risk,150,High,5,Occasional,2 Cups,5,High
+28,76,185,Resting,Hypertension,173,High,4,Rarely,None,8,High
+23,69,171,Running,Hypertension,152,High,5,Regular,None,5,High
+24,81,183,Running,Hypertension,153,High,4,Regular,1 Cup,3,High
+29,74,170,Walking,Cardiac Risk,152,High,5,Regular,>2 Cups,8,High
+28,77,177,Resting,Hypertension,162,High,4,Occasional,None,7,High
+21,73,153,Resting,Hypertension,162,High,4,Rarely,None,5,High
+18,77,172,Walking,Hypertension,148,High,4,Occasional,None,4,High
+18,72,170,Walking,Cardiac Risk,142,High,5,Regular,2 Cups,9,High
+24,84,183,Running,Hypertension,152,High,5,Occasional,>2 Cups,3,High
+25,87,168,Running,Cardiac Risk,155,High,4,Occasional,None,8,High
+29,62,167,Walking,Cardiac Risk,163,High,4,Occasional,1 Cup,4,High
+19,66,181,Running,Cardiac Risk,166,High,4,Occasional,>2 Cups,2,High
+21,86,158,Resting,Hypertension,165,High,5,Occasional,>2 Cups,4,High
+21,57,171,Resting,Cardiac Risk,141,High,4,Regular,None,3,High
+28,67,171,Resting,Hypertension,170,High,4,Rarely,>2 Cups,6,High
+20,57,172,Resting,Hypertension,146,High,5,Rarely,>2 Cups,3,High
+19,56,153,Resting,Hypertension,149,High,4,Occasional,2 Cups,9,High
+18,72,152,Resting,Cardiac Risk,173,High,5,Rarely,1 Cup,9,High
+27,64,169,Walking,Hypertension,163,High,5,Occasional,1 Cup,3,High
+20,60,164,Walking,Hypertension,141,High,4,Occasional,None,9,High
+27,77,156,Walking,Hypertension,171,High,5,Occasional,None,2,High
+24,86,157,Resting,Hypertension,141,High,5,Occasional,None,4,High
+29,80,159,Walking,Hypertension,153,High,5,Occasional,1 Cup,6,High
+23,74,160,Resting,Cardiac Risk,145,High,5,Occasional,2 Cups,5,High
+18,74,189,Resting,Hypertension,176,High,4,Regular,>2 Cups,9,High
+28,69,184,Walking,Cardiac Risk,169,High,4,Occasional,2 Cups,2,High
+24,74,169,Resting,Cardiac Risk,158,High,5,Rarely,1 Cup,2,High
+23,59,169,Running,Cardiac Risk,152,High,4,Rarely,1 Cup,3,High
+22,67,150,Running,Hypertension,149,High,5,Regular,None,2,High
+19,82,181,Running,Hypertension,173,High,4,Occasional,None,5,High
+26,83,167,Resting,Cardiac Risk,158,High,5,Regular,1 Cup,8,High
+27,50,175,Resting,Hypertension,151,High,4,Regular,1 Cup,9,High
+18,55,174,Resting,Hypertension,142,High,5,Rarely,>2 Cups,7,High
+25,82,175,Walking,Hypertension,176,High,5,Rarely,1 Cup,4,High
+19,83,184,Walking,Cardiac Risk,179,High,4,Occasional,>2 Cups,5,High
+26,57,150,Walking,Hypertension,161,High,4,Occasional,>2 Cups,4,High
+20,67,166,Running,Hypertension,154,High,5,Rarely,1 Cup,2,High
+22,88,186,Walking,Cardiac Risk,177,High,5,Rarely,>2 Cups,4,High
+29,56,176,Running,Hypertension,180,High,4,Rarely,None,6,High
+27,68,182,Walking,Hypertension,145,High,4,Occasional,1 Cup,3,High
+29,70,167,Resting,Hypertension,152,High,4,Regular,1 Cup,4,High
+22,61,179,Walking,Hypertension,171,High,5,Regular,>2 Cups,8,High
+25,86,175,Resting,Hypertension,168,High,4,Occasional,>2 Cups,8,High
+19,76,155,Running,Cardiac Risk,151,High,5,Occasional,2 Cups,9,High
+27,80,163,Resting,Hypertension,164,High,5,Rarely,2 Cups,9,High
+25,89,157,Walking,Hypertension,149,High,4,Rarely,1 Cup,9,High
+22,86,157,Resting,Hypertension,167,High,5,Rarely,2 Cups,7,High
+21,65,151,Running,Cardiac Risk,159,High,4,Regular,>2 Cups,7,High
+22,77,170,Walking,Hypertension,157,High,4,Rarely,>2 Cups,7,High
+23,51,163,Walking,Cardiac Risk,166,High,4,Rarely,>2 Cups,9,High
+25,80,182,Resting,Cardiac Risk,161,High,4,Rarely,>2 Cups,2,High
+23,57,173,Running,Hypertension,152,High,5,Regular,>2 Cups,2,High
+25,70,175,Resting,Cardiac Risk,153,High,4,Occasional,>2 Cups,4,High
+18,69,156,Walking,Cardiac Risk,140,High,4,Occasional,None,4,High
+19,57,158,Walking,Hypertension,179,High,4,Regular,None,3,High
+23,64,168,Running,Cardiac Risk,157,High,4,Rarely,1 Cup,2,High
+24,51,180,Walking,Hypertension,171,High,4,Occasional,1 Cup,5,High
+29,58,155,Resting,Hypertension,155,High,5,Occasional,2 Cups,5,High
+28,67,162,Resting,Cardiac Risk,177,High,5,Rarely,2 Cups,3,High
+28,66,180,Resting,Cardiac Risk,170,High,4,Occasional,>2 Cups,2,High
+20,55,180,Walking,Cardiac Risk,166,High,4,Regular,>2 Cups,5,High
+21,68,157,Walking,Cardiac Risk,150,High,4,Regular,2 Cups,2,High
+26,86,152,Running,Cardiac Risk,156,High,5,Regular,1 Cup,7,High
+21,60,174,Walking,Cardiac Risk,180,High,4,Occasional,>2 Cups,9,High
+25,82,163,Resting,Hypertension,178,High,5,Rarely,None,6,High
+20,67,161,Resting,Hypertension,172,High,4,Occasional,1 Cup,5,High
+21,51,153,Running,Hypertension,168,High,5,Regular,1 Cup,9,High
+24,87,182,Resting,Cardiac Risk,142,High,5,Regular,2 Cups,5,High
+22,64,153,Resting,Hypertension,158,High,5,Occasional,>2 Cups,8,High
+22,63,156,Resting,Cardiac Risk,140,High,4,Regular,2 Cups,3,High
+27,74,169,Walking,Cardiac Risk,179,High,4,Occasional,1 Cup,8,High
+18,83,169,Walking,Cardiac Risk,175,High,5,Regular,>2 Cups,9,High
+28,59,188,Walking,Hypertension,164,High,4,Occasional,1 Cup,6,High
+28,77,172,Running,Hypertension,166,High,4,Regular,None,6,High
+22,62,187,Resting,Cardiac Risk,143,High,5,Rarely,1 Cup,2,High
+25,56,174,Walking,Cardiac Risk,176,High,5,Rarely,>2 Cups,3,High
+24,89,176,Resting,Hypertension,180,High,5,Rarely,None,5,High
+25,70,150,Walking,Hypertension,157,High,4,Regular,2 Cups,2,High
+18,64,165,Running,Cardiac Risk,172,High,5,Occasional,>2 Cups,6,High
+21,61,166,Walking,Hypertension,162,High,4,Regular,>2 Cups,2,High
+29,79,153,Resting,Hypertension,151,High,5,Regular,None,5,High
+20,82,170,Running,Cardiac Risk,180,High,5,Rarely,2 Cups,5,High
+20,78,150,Walking,Cardiac Risk,148,High,5,Rarely,1 Cup,6,High
+18,71,167,Walking,Cardiac Risk,154,High,4,Occasional,>2 Cups,2,High
+21,80,167,Resting,Hypertension,146,High,4,Rarely,None,4,High
+23,52,162,Resting,Cardiac Risk,167,High,5,Regular,>2 Cups,7,High
+19,78,164,Running,Cardiac Risk,160,High,5,Rarely,1 Cup,2,High
+21,53,181,Walking,Hypertension,176,High,4,Rarely,2 Cups,3,High
+21,66,188,Walking,Cardiac Risk,153,High,4,Rarely,>2 Cups,8,High
+23,76,156,Walking,Hypertension,161,High,5,Rarely,None,6,High
+18,88,161,Walking,Hypertension,150,High,5,Regular,None,7,High
+22,83,186,Walking,Cardiac Risk,152,High,5,Occasional,1 Cup,9,High
+29,59,175,Walking,Cardiac Risk,143,High,5,Occasional,>2 Cups,6,High
+20,58,162,Resting,Hypertension,147,High,5,Occasional,2 Cups,2,High
+27,72,164,Resting,Hypertension,160,High,4,Occasional,None,8,High
+28,61,183,Walking,Hypertension,167,High,5,Rarely,None,2,High
+29,68,168,Running,Hypertension,141,High,5,Rarely,1 Cup,2,High
+25,52,160,Walking,Hypertension,145,High,5,Regular,None,4,High
+21,77,175,Running,Cardiac Risk,156,High,4,Rarely,1 Cup,5,High
+22,73,186,Resting,Cardiac Risk,172,High,4,Occasional,>2 Cups,4,High
+19,84,155,Walking,Hypertension,146,High,5,Occasional,>2 Cups,5,High
+21,72,162,Resting,Hypertension,148,High,5,Rarely,None,4,High
+22,62,167,Resting,Hypertension,144,High,5,Regular,None,2,High
+24,88,173,Running,Cardiac Risk,165,High,4,Rarely,1 Cup,3,High
+28,59,188,Resting,Hypertension,175,High,4,Regular,2 Cups,9,High
+29,58,182,Running,Hypertension,156,High,4,Rarely,None,4,High
+25,65,156,Walking,Cardiac Risk,146,High,4,Occasional,None,8,High
+24,51,179,Walking,Hypertension,158,High,4,Regular,None,3,High
+24,89,178,Running,Hypertension,180,High,4,Rarely,None,4,High
+21,57,188,Walking,Cardiac Risk,174,High,5,Regular,None,8,High
+23,63,186,Running,Hypertension,150,High,4,Rarely,None,9,High
+29,67,153,Running,Cardiac Risk,144,High,4,Rarely,1 Cup,4,High
+27,78,169,Walking,Cardiac Risk,177,High,5,Rarely,1 Cup,3,High
+18,78,176,Resting,Cardiac Risk,167,High,4,Rarely,>2 Cups,6,High
+22,70,176,Running,Hypertension,155,High,4,Rarely,>2 Cups,4,High
+25,59,178,Walking,Cardiac Risk,142,High,5,Regular,2 Cups,2,High
+24,69,171,Resting,Cardiac Risk,169,High,5,Rarely,2 Cups,3,High
+18,87,163,Running,Hypertension,148,High,4,Regular,2 Cups,4,High
+18,87,153,Resting,Hypertension,147,High,4,Regular,None,4,High
+23,80,172,Running,Hypertension,163,High,5,Rarely,2 Cups,4,High
+20,79,164,Walking,Hypertension,148,High,5,Regular,1 Cup,7,High
+26,67,189,Running,Cardiac Risk,170,High,5,Regular,2 Cups,8,High
+20,69,158,Running,Cardiac Risk,141,High,4,Occasional,None,5,High
+22,84,183,Resting,Cardiac Risk,179,High,5,Occasional,2 Cups,8,High
+18,71,161,Walking,Hypertension,161,High,5,Rarely,2 Cups,7,High
+25,88,160,Running,Cardiac Risk,160,High,5,Occasional,None,4,High
+21,69,163,Walking,Hypertension,163,High,4,Regular,None,3,High
+27,65,166,Resting,Hypertension,164,High,5,Regular,None,8,High
+22,85,183,Resting,Cardiac Risk,178,High,5,Rarely,None,4,High
+26,62,168,Walking,Hypertension,178,High,5,Rarely,2 Cups,7,High
+27,71,163,Running,Hypertension,154,High,4,Rarely,None,6,High
+26,52,157,Walking,Cardiac Risk,176,High,4,Rarely,2 Cups,8,High
+18,87,180,Walking,Hypertension,158,High,5,Rarely,None,3,High
+18,89,172,Walking,Hypertension,145,High,5,Rarely,>2 Cups,2,High
+28,65,155,Resting,Hypertension,150,High,5,Occasional,1 Cup,2,High
+27,59,159,Running,Cardiac Risk,164,High,4,Regular,None,5,High
+24,78,159,Walking,Cardiac Risk,175,High,5,Regular,>2 Cups,6,High
+27,64,155,Running,Cardiac Risk,157,High,4,Regular,2 Cups,2,High
+25,86,167,Walking,Hypertension,154,High,5,Rarely,>2 Cups,7,High
+19,67,178,Resting,Hypertension,154,High,4,Occasional,1 Cup,6,High
+22,82,155,Walking,Cardiac Risk,153,High,5,Regular,1 Cup,5,High
+23,55,174,Walking,Hypertension,174,High,4,Occasional,None,2,High
+25,70,186,Resting,Hypertension,171,High,4,Occasional,1 Cup,2,High
+25,78,181,Resting,Hypertension,140,High,5,Rarely,2 Cups,4,High
+21,77,183,Resting,Hypertension,167,High,4,Regular,>2 Cups,4,High
+25,53,154,Resting,Cardiac Risk,154,High,4,Occasional,2 Cups,4,High
+22,69,155,Walking,Cardiac Risk,160,High,5,Regular,>2 Cups,9,High
+29,51,158,Resting,Cardiac Risk,153,High,5,Occasional,2 Cups,7,High
+28,67,165,Resting,Cardiac Risk,163,High,4,Occasional,2 Cups,9,High
+18,50,166,Resting,Hypertension,162,High,5,Regular,1 Cup,8,High
+29,54,177,Walking,Hypertension,164,High,5,Regular,2 Cups,9,High
+21,55,179,Resting,Hypertension,176,High,5,Rarely,2 Cups,3,High
+29,59,169,Running,Cardiac Risk,172,High,5,Rarely,1 Cup,2,High
+19,80,178,Resting,Hypertension,142,High,5,Rarely,>2 Cups,7,High
+26,78,174,Running,Cardiac Risk,156,High,4,Regular,None,8,High
+26,74,159,Running,Hypertension,146,High,4,Occasional,None,3,High
+18,82,178,Running,Cardiac Risk,140,High,4,Rarely,2 Cups,5,High
+24,84,178,Running,Cardiac Risk,163,High,5,Rarely,1 Cup,3,High
+18,71,182,Resting,Hypertension,180,High,4,Occasional,None,9,High
+26,54,158,Running,Hypertension,151,High,4,Rarely,>2 Cups,4,High
+27,83,179,Resting,Hypertension,154,High,5,Rarely,2 Cups,2,High
+21,53,156,Resting,Hypertension,156,High,5,Regular,>2 Cups,2,High
+22,73,176,Resting,Cardiac Risk,167,High,5,Regular,2 Cups,2,High
+25,50,188,Running,Hypertension,162,High,4,Rarely,2 Cups,9,High
+21,83,183,Resting,Hypertension,143,High,4,Rarely,1 Cup,3,High
+25,82,155,Walking,Hypertension,144,High,5,Rarely,>2 Cups,3,High
+20,75,166,Running,Hypertension,158,High,5,Rarely,>2 Cups,4,High
+21,53,164,Walking,Hypertension,141,High,5,Rarely,>2 Cups,2,High
+26,59,167,Resting,Cardiac Risk,149,High,4,Occasional,2 Cups,9,High
+20,88,174,Running,Cardiac Risk,175,High,5,Occasional,None,7,High
